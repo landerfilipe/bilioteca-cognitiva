@@ -1,441 +1,362 @@
-# Taxonomia de Ferramentas Cognitivas Transferíveis
+# Taxonomia de Ferramentas Cognitivas Transferíveis — Ordem de Prioridade
 
-Objetivo: criar uma biblioteca de conceitos para reconhecer mecanismos em situações humanas, econômicas, sociais, estratégicas e psicológicas.
-Pergunta central de cada item: **qual mecanismo está operando aqui?**
-
-Critério de seleção: priorizar conceitos úteis para incentivos, armadilhas, relacionamentos, dinheiro, carreira, negociação, manipulação, defesas psicológicas, análise de comportamento, epistemologia prática, reconhecimento de padrões e aumento de inteligência aplicada.
-
-Estrutura:
-
-* **Nível 1 — Essenciais:** os conceitos mais básicos, recorrentes e práticos.
-* **Nível 2 — Intermediários:** conceitos mais específicos, mas ainda muito transferíveis.
-* **Nível 3 — Avançados:** conceitos mais técnicos, estratégicos ou especializados.
-
----
-
-# Nível 1 — Essenciais
-
-## 1. Psicologia aplicada, personalidade e defesas psicológicas
-
-1. Modelo dos Cinco Grandes Fatores de Personalidade
-2. Modelo HEXACO de Personalidade
-3. Teoria do Apego
-4. Teoria da Autodeterminação
-5. Teoria da Autoeficácia de Bandura
-6. Teoria do Desamparo Aprendido
-7. Teoria da Dissonância Cognitiva
-8. Modelo ABC da Terapia Cognitivo-Comportamental
-9. Lei de Yerkes-Dodson
-10. Teoria da Comparação Social
-11. Teoria da Identidade Social
-12. Teoria da Aprendizagem Social
-13. Condicionamento Clássico
-14. Condicionamento Operante
-15. Princípio do Reforço Intermitente
-16. Modelo do Loop do Hábito
-17. Modelo dos Mecanismos de Defesa
-18. Modelo de Regulação Emocional de James Gross
-19. Teoria da Troca Social
-20. Modelo da Tríade Sombria
-
-## 2. Economia, incentivos, dinheiro e carreira
-
-1. Princípio da Escassez
-2. Custo de Oportunidade
-3. Análise Marginal
-4. Lei da Oferta e Demanda
-5. Elasticidade-preço da Demanda
-6. Lei da Utilidade Marginal Decrescente
-7. Teoria da Preferência Temporal
-8. Princípio dos Juros Compostos
-9. Relação Risco-Retorno
-10. Princípio da Diversificação
-11. Princípio dos Incentivos
-12. Problema do Incentivo Desalinhado
-13. Assimetria de Informação
-14. Seleção Adversa
-15. Risco Moral
-16. Problema Agente-Principal
-17. Teoria das Externalidades
-18. Tragédia dos Comuns
-19. Teoria dos Custos de Transação
-20. Preço como Sinal
-
-## 3. Biologia evolutiva e comportamento social
-
-1. Teoria da Seleção Natural
-2. Teoria da Seleção Sexual
-3. Teoria da Seleção de Parentesco
-4. Aptidão Inclusiva
-5. Teoria do Altruísmo Recíproco
-6. Teoria do Investimento Parental
-7. Teoria das Estratégias Sexuais
-8. Teoria da Sinalização Custosa
-9. Princípio do Handicap
-10. Teoria da História de Vida
-11. Hipótese do Mismatch Evolutivo
-12. Teoria da Gestão do Erro
-13. Teoria do Conflito Sexual
-14. Competição Intrassexual
-15. Escolha Intersexual
-16. Teoria Dual do Status: Dominância e Prestígio
-17. Psicologia Coalizacional
-18. Sistema Cognitivo de Detecção de Trapaceiros
-19. Hipótese do Sistema Imunológico Comportamental
-20. Teoria da Evolução Cultural
-
-## 4. Teoria dos jogos e estratégia
-
-1. Dilema do Prisioneiro
-2. Equilíbrio de Nash
-3. Estratégia Dominante
-4. Eliminação de Estratégias Dominadas
-5. Conceito de Melhor Resposta Estratégica
-6. Jogo de Soma Zero
-7. Jogo de Soma Positiva
-8. Jogo de Coordenação
-9. Caça ao Cervo
-10. Jogo da Galinha
-11. Ponto Focal de Schelling
-12. Jogos Repetidos
-13. Sombra do Futuro
-14. Estratégia Tit-for-Tat
-15. Compromisso Crível
-16. Ameaça Crível
-17. Teoria da Dissuasão
-18. Jogo de Sinalização
-19. Indução Retroativa
-20. BATNA: Melhor Alternativa ao Acordo Negociado
-
-## 5. Vieses, heurísticas e epistemologia prática
-
-1. Viés de Confirmação
-2. Raciocínio Motivado
-3. Heurística da Disponibilidade
-4. Heurística da Representatividade
-5. Ancoragem e Ajuste
-6. Negligência da Taxa-base
-7. Regressão à Média
-8. Falácia do Custo Irrecuperável
-9. Aversão à Perda
-10. Viés do Status Quo
-11. Viés de Excesso de Confiança
-12. Efeito Dunning-Kruger
-13. Erro Fundamental de Atribuição
-14. Efeito Halo
-15. Viés de Sobrevivência
-16. Falácia do Planejamento
-17. Efeito de Enquadramento
-18. Viés do Presente
-19. Atualização Bayesiana Insuficiente
-20. Navalha de Occam
-
-## 6. Manipulação, negociação, poder e defesa social
-
-1. Princípio da Reciprocidade
-2. Princípio da Autoridade
-3. Princípio da Prova Social
-4. Princípio da Escassez em Persuasão
-5. Princípio do Compromisso e Consistência
-6. Princípio da Simpatia
-7. Técnica do Pé-na-porta
-8. Técnica da Porta-na-cara
-9. Técnica do Low-ball
-10. Técnica do Bait-and-switch
-11. Gaslighting
-12. DARVO: Negar, Atacar e Inverter Vítima-Agressor
-13. JADE: Justificar, Argumentar, Defender e Explicar
-14. Técnica Grey Rock
-15. Reforço Intermitente em Vínculos Abusivos
-16. Vínculo Traumático
-17. Triangulação Manipulativa
-18. Chantagem Emocional
-19. Pergunta Carregada
-20. Silêncio Tático
-
----
-
-# Nível 2 — Intermediários
-
-## 1. Psicologia aplicada, personalidade e defesas psicológicas
-
-1. Teoria da Reactância Psicológica
-2. Teoria da Autoafirmação
-3. Teoria da Autodiscrepância
-4. Teoria da Gestão do Terror
-5. Teoria da Atribuição
-6. Teoria da Interdependência
-7. Teoria da Equidade em Relacionamentos
-8. Teoria dos Esquemas Cognitivos
-9. Modelo dos Esquemas Desadaptativos de Jeffrey Young
-10. Modelo de Flexibilidade Psicológica
-11. Teoria da Mentalização
-12. Modelo da Teoria da Mente
-13. Modelo Dual da Empatia
-14. Modelo COM-B de Mudança Comportamental
-15. Técnica de Intenção de Implementação
-16. Modelo de Evitação Experiencial
-17. Modelo de Exposição e Habituação
-18. Teoria do Processo Oponente
-19. Teoria da Carga Cognitiva
-20. Modelo de Tolerância à Frustração
-
-## 2. Economia, incentivos, dinheiro e carreira
-
-1. Teoria da Vantagem Comparativa
-2. Princípio da Divisão do Trabalho
-3. Economias de Escala
-4. Deseconomias de Escala
-5. Efeitos de Rede
-6. Custo de Troca
-7. Efeito Lock-in
-8. Teoria do Capital Humano
-9. Teoria da Sinalização Educacional
-10. Consumo Conspícuo de Veblen
-11. Teoria dos Bens Posicionais
-12. Teorema de Coase
-13. Teoria dos Bens Públicos
-14. Problema do Carona
-15. Teoria dos Direitos de Propriedade
-16. Rent-seeking
-17. Captura Regulatória
-18. Teoria da Escolha Pública
-19. Falha de Mercado
-20. Falha de Governo
-
-## 3. Biologia evolutiva e comportamento social
-
-1. Teoria do Conflito Pais-Filhos
-2. Princípio de Trivers-Willard
-3. Teoria da Assimetria Parental
-4. Teoria da Competição Espermática
-5. Teoria da Guarda de Parceiro
-6. Teoria do Ciúme Adaptativo
-7. Hipótese da Rainha Vermelha
-8. Corrida Armamentista Evolutiva
-9. Seleção Dependente de Frequência
-10. Estratégia Evolutivamente Estável
-11. Teoria da Seleção Multinível
-12. Reciprocidade Indireta
-13. Punição Altruísta
-14. Cooperação Condicional
-15. Hipótese do Cérebro Social
-16. Hipótese Maquiavélica da Inteligência
-17. Hipótese da Fofoca de Dunbar
-18. Número de Dunbar
-19. Hipótese da Linguagem como Grooming Social
-20. Teoria das Fundações Morais
-
-## 4. Teoria dos jogos e estratégia
-
-1. Jogo do Ultimato
-2. Jogo do Ditador
-3. Jogo de Confiança
-4. Jogo do Bem Público
-5. Estratégia Mista
-6. Estratégia Maximin
-7. Estratégia Minimax
-8. Equilíbrio Perfeito em Subjogos
-9. Informação Completa e Informação Incompleta
-10. Informação Perfeita e Informação Imperfeita
-11. Conhecimento Comum
-12. Equilíbrio Separador
-13. Equilíbrio Agregador
-14. Estratégia de Screening
-15. Leilão de Primeiro Preço
-16. Leilão de Segundo Preço
-17. Teoria dos Leilões
-18. Maldição do Vencedor
-19. Problema do Hold-up
-20. ZOPA: Zona de Possível Acordo
-
-## 5. Vieses, heurísticas e epistemologia prática
-
-1. Insensibilidade ao Tamanho da Amostra
-2. Lei dos Pequenos Números
-3. Falácia do Jogador
-4. Falácia da Mão Quente
-5. Viés de Resultado
-6. Viés Retrospectivo
-7. Viés de Seleção
-8. Viés de Amostragem
-9. Viés de Publicação
-10. P-hacking
-11. Paradoxo de Simpson
-12. Confusão entre Correlação e Causalidade
-13. Causalidade Reversa
-14. Problema da Variável Omitida
-15. Efeito Placebo
-16. Efeito Nocebo
-17. Efeito Chifre
-18. Viés de Autoconveniência
-19. Viés Ator-Observador
-20. Efeito Dotação
-
-## 6. Manipulação, negociação, poder e defesa social
-
-1. Princípio da Unidade de Cialdini
-2. Efeito Contraste em Persuasão
-3. Love Bombing
-4. Duplo Vínculo
-5. Mudança Constante dos Critérios
-6. Inversão do Ônus da Prova
-7. Falácia do Espantalho
-8. Motte-and-bailey
-9. Falso Dilema
-10. Falsa Equivalência
-11. Whataboutism
-12. Gish Gallop
-13. Pista Falsa
-14. Ataque Ad Hominem
-15. Apelo Emocional Manipulativo
-16. Apelo Indevido à Autoridade
-17. Efeito Manada
-18. Ladeira Escorregadia
-19. Controle de Narrativa
-20. Enquadramento Persuasivo
-
----
-
-# Nível 3 — Avançados
-
-## 1. Psicologia aplicada, personalidade e defesas psicológicas
-
-1. Teoria da Sensibilidade ao Reforço de Gray
-2. Modelo BIS/BAS de Motivação
-3. Teoria da Ativação de Traços
-4. Modelo de Temperamento de Kagan
-5. Teoria do Rank Social
-6. Teoria da Linha de Base Social
-7. Modelo de Processamento Preditivo
-8. Princípio da Energia Livre
-9. Modelo de Metacognição
-10. Teoria da Autopercepção de Bem
-11. Teoria da Regulação do Foco
-12. Teoria da Orientação para Objetivos
-13. Modelo de Controle Perceptivo
-14. Teoria da Supressão Irônica
-15. Modelo de Alostase Psicológica
-16. Modelo Vulnerabilidade-Estresse
-17. Teoria Polivagal
-18. Teoria dos Scripts Cognitivos
-19. Modelo de Internalização Organísmica
-20. Teoria dos Sistemas Motivacionais
-
-## 2. Economia, incentivos, dinheiro e carreira
-
-1. Teoria dos Contratos
-2. Design de Mecanismos
-3. Teoria da Preferência Revelada
-4. Teoria do Equilíbrio Geral
-5. Hipótese dos Mercados Eficientes
-6. Teoria da Reflexividade de Soros
-7. Hipótese da Instabilidade Financeira de Minsky
-8. Efeito Cantillon
-9. Lei de Goodhart
-10. Lei de Campbell
-11. Paradoxo de Jevons
-12. Paradoxo da Poupança
-13. Lei de Gresham
-14. Doença dos Custos de Baumol
-15. Teoria dos Mercados Contestáveis
-16. Teoria da Firma
-17. Teoria dos Jogos Aplicada a Mercados
-18. Teoria da Precificação por Arbitragem
-19. Problema da Informação Local de Hayek
-20. Ordem Espontânea
-
-## 3. Biologia evolutiva e comportamento social
-
-1. Hipótese do Gene Egoísta
-2. Teoria da Dupla Herança
-3. Teoria da Coevolução Gene-Cultura
-4. Teoria da Construção de Nicho
-5. Hipótese da Autodomesticação Humana
-6. Teoria da Seleção Social
-7. Teoria da Seleção de Grupo Cultural
-8. Hipótese do Filho Sexy
-9. Modelo Fisheriano de Seleção Sexual
-10. Hipótese dos Bons Genes
-11. Hipótese dos Bons Provedores
-12. Hipótese da Imunocompetência na Atratividade
-13. Teoria do Estresse Parasitário
-14. Modelo dos Três Domínios do Nojo
-15. Teoria da Detecção de Agência
-16. Teoria Modular da Mente
-17. Teoria dos Contratos Sociais na Cognição
-18. Hipótese da Inteligência Ecológica
-19. Teoria da Transmissão Cultural Enviesada
-20. Teoria da Evolução de Normas Sociais
-
-## 4. Teoria dos jogos e estratégia
-
-1. Jogos Bayesianos
-2. Equilíbrio Bayesiano Perfeito
-3. Equilíbrio Sequencial
-4. Equilíbrio de Mão Trêmula
-5. Teorema Popular dos Jogos Repetidos
-6. Dinâmica Replicadora
-7. Teoria dos Jogos Evolutiva
-8. Jogo da Guerra de Atrito
-9. Dilema do Voluntário
-10. Jogo de Entrada no Mercado
-11. Modelo de Cournot
-12. Modelo de Bertrand
-13. Modelo de Stackelberg
-14. Estratégia de Brinkmanship
-15. Escalada Controlada
-16. Estratégia de Ambiguidade
-17. Estratégia de Reputação
-18. Estratégia de Saída
-19. Barganha de Nash
-20. Assimetria de Paciência em Negociação
-
-## 5. Vieses, heurísticas e epistemologia prática
-
-1. Garden of Forking Paths
-2. Problema das Comparações Múltiplas
-3. Falácia de McNamara
-4. Efeito Streetlight
-5. Viés de Congruência
-6. Viés de Informação
-7. Viés de Ação
-8. Viés de Omissão
-9. Aversão ao Arrependimento
-10. Desconto Hiperbólico
-11. Inconsistência Temporal
-12. Contabilidade Mental
-13. Efeito Isca
-14. Efeito Compromisso
-15. Paradoxo da Escolha
-16. Fadiga Decisória
-17. Negligência do Risco de Cauda
-18. Falácia Narrativa
-19. Ilusão de Profundidade Explicativa
-20. Cognição Protetora de Identidade
-
-## 6. Manipulação, negociação, poder e defesa social
-
-1. Teoria do Controle Coercitivo
-2. Janela de Overton
-3. Agenda-setting
-4. Negação Plausível
-5. Sinalização de Virtude
-6. Sinalização de Lealdade
-7. Teste de Limites
-8. Pacing and Leading
-9. Rapport Estratégico
-10. Espelhamento Tático
-11. Rotulagem Emocional em Negociação
-12. Perguntas Calibradas
-13. Separar Pessoa e Problema
-14. Negociação Baseada em Interesses
-15. Logrolling
-16. Concessão Calculada
-17. Ultimato Estratégico
-18. Future Faking
-19. Hoovering
-20. Ciclo Idealização-Desvalorização-Descarte
-
----
-
+1. Custo de Oportunidade
+2. Princípio dos Incentivos
+3. Problema do Incentivo Desalinhado
+4. Análise Marginal
+5. Princípio da Escassez
+6. Teoria da Preferência Temporal
+7. Viés do Presente
+8. Desconto Hiperbólico
+9. Inconsistência Temporal
+10. Princípio dos Juros Compostos
+11. Relação Risco-Retorno
+12. Princípio da Diversificação
+13. Lei da Utilidade Marginal Decrescente
+14. Lei da Oferta e Demanda
+15. Preço como Sinal
+16. Assimetria de Informação
+17. Seleção Adversa
+18. Risco Moral
+19. Problema Agente-Principal
+20. Teoria dos Custos de Transação
+21. Viés de Confirmação
+22. Raciocínio Motivado
+23. Negligência da Taxa-base
+24. Atualização Bayesiana Insuficiente
+25. Heurística da Disponibilidade
+26. Heurística da Representatividade
+27. Ancoragem e Ajuste
+28. Regressão à Média
+29. Navalha de Occam
+30. Confusão entre Correlação e Causalidade
+31. Causalidade Reversa
+32. Problema da Variável Omitida
+33. Paradoxo de Simpson
+34. Viés de Sobrevivência
+35. Viés de Seleção
+36. Viés de Amostragem
+37. Insensibilidade ao Tamanho da Amostra
+38. Lei dos Pequenos Números
+39. Viés de Resultado
+40. Viés Retrospectivo
+41. Falácia do Custo Irrecuperável
+42. Aversão à Perda
+43. Viés do Status Quo
+44. Viés de Excesso de Confiança
+45. Efeito Dunning-Kruger
+46. Falácia do Planejamento
+47. Efeito de Enquadramento
+48. Falácia do Jogador
+49. Falácia da Mão Quente
+50. Contabilidade Mental
+51. Efeito Dotação
+52. Aversão ao Arrependimento
+53. Efeito Isca
+54. Efeito Compromisso
+55. Paradoxo da Escolha
+56. Fadiga Decisória
+57. Negligência do Risco de Cauda
+58. Falácia Narrativa
+59. Ilusão de Profundidade Explicativa
+60. Cognição Protetora de Identidade
+61. Teoria da Autoeficácia de Bandura
+62. Teoria do Desamparo Aprendido
+63. Teoria da Autodeterminação
+64. Modelo do Loop do Hábito
+65. Condicionamento Operante
+66. Condicionamento Clássico
+67. Princípio do Reforço Intermitente
+68. Técnica de Intenção de Implementação
+69. Modelo de Regulação Emocional de James Gross
+70. Modelo ABC da Terapia Cognitivo-Comportamental
+71. Modelo de Flexibilidade Psicológica
+72. Modelo de Evitação Experiencial
+73. Modelo de Exposição e Habituação
+74. Modelo de Tolerância à Frustração
+75. Lei de Yerkes-Dodson
+76. Teoria da Carga Cognitiva
+77. Modelo de Metacognição
+78. Teoria da Orientação para Objetivos
+79. Teoria da Regulação do Foco
+80. Modelo COM-B de Mudança Comportamental
+81. Teoria do Apego
+82. Modelo dos Cinco Grandes Fatores de Personalidade
+83. Modelo HEXACO de Personalidade
+84. Modelo dos Mecanismos de Defesa
+85. Teoria dos Esquemas Cognitivos
+86. Modelo dos Esquemas Desadaptativos de Jeffrey Young
+87. Modelo da Teoria da Mente
+88. Teoria da Mentalização
+89. Modelo Dual da Empatia
+90. Teoria da Atribuição
+91. Erro Fundamental de Atribuição
+92. Viés Ator-Observador
+93. Viés de Autoconveniência
+94. Efeito Halo
+95. Efeito Chifre
+96. Teoria da Comparação Social
+97. Teoria da Identidade Social
+98. Teoria da Aprendizagem Social
+99. Teoria da Troca Social
+100. Teoria da Interdependência
+101. Teoria da Equidade em Relacionamentos
+102. Teoria da Dissonância Cognitiva
+103. Teoria da Reactância Psicológica
+104. Teoria da Autoafirmação
+105. Teoria da Autodiscrepância
+106. Teoria do Rank Social
+107. Teoria da Linha de Base Social
+108. Modelo da Tríade Sombria
+109. Teoria Dual do Status: Dominância e Prestígio
+110. Psicologia Coalizacional
+111. Sistema Cognitivo de Detecção de Trapaceiros
+112. Teoria do Altruísmo Recíproco
+113. Reciprocidade Indireta
+114. Cooperação Condicional
+115. Punição Altruísta
+116. Hipótese do Cérebro Social
+117. Hipótese Maquiavélica da Inteligência
+118. Número de Dunbar
+119. Teoria das Fundações Morais
+120. Teoria da Evolução Cultural
+121. Princípio da Reciprocidade
+122. Princípio da Autoridade
+123. Princípio da Prova Social
+124. Princípio do Compromisso e Consistência
+125. Princípio da Simpatia
+126. Princípio da Escassez em Persuasão
+127. Efeito Contraste em Persuasão
+128. Enquadramento Persuasivo
+129. Técnica do Pé-na-porta
+130. Técnica da Porta-na-cara
+131. Técnica do Low-ball
+132. Técnica do Bait-and-switch
+133. Princípio da Unidade de Cialdini
+134. Efeito Manada
+135. Apelo Emocional Manipulativo
+136. Apelo Indevido à Autoridade
+137. Pergunta Carregada
+138. Silêncio Tático
+139. Pacing and Leading
+140. Rapport Estratégico
+141. BATNA: Melhor Alternativa ao Acordo Negociado
+142. ZOPA: Zona de Possível Acordo
+143. Negociação Baseada em Interesses
+144. Separar Pessoa e Problema
+145. Perguntas Calibradas
+146. Rotulagem Emocional em Negociação
+147. Espelhamento Tático
+148. Logrolling
+149. Concessão Calculada
+150. Ultimato Estratégico
+151. Compromisso Crível
+152. Ameaça Crível
+153. Teoria da Dissuasão
+154. Estratégia de Reputação
+155. Estratégia de Saída
+156. Estratégia de Ambiguidade
+157. Escalada Controlada
+158. Estratégia de Brinkmanship
+159. Barganha de Nash
+160. Assimetria de Paciência em Negociação
+161. Teoria do Controle Coercitivo
+162. Gaslighting
+163. DARVO: Negar, Atacar e Inverter Vítima-Agressor
+164. JADE: Justificar, Argumentar, Defender e Explicar
+165. Técnica Grey Rock
+166. Reforço Intermitente em Vínculos Abusivos
+167. Vínculo Traumático
+168. Triangulação Manipulativa
+169. Chantagem Emocional
+170. Love Bombing
+171. Duplo Vínculo
+172. Mudança Constante dos Critérios
+173. Inversão do Ônus da Prova
+174. Teste de Limites
+175. Future Faking
+176. Hoovering
+177. Ciclo Idealização-Desvalorização-Descarte
+178. Controle de Narrativa
+179. Negação Plausível
+180. Whataboutism
+181. Falácia do Espantalho
+182. Motte-and-bailey
+183. Falso Dilema
+184. Falsa Equivalência
+185. Gish Gallop
+186. Pista Falsa
+187. Ataque Ad Hominem
+188. Ladeira Escorregadia
+189. Janela de Overton
+190. Agenda-setting
+191. Sinalização de Virtude
+192. Sinalização de Lealdade
+193. Falácia de McNamara
+194. Efeito Streetlight
+195. Viés de Congruência
+196. Viés de Informação
+197. Viés de Ação
+198. Viés de Omissão
+199. P-hacking
+200. Viés de Publicação
+201. Teoria do Capital Humano
+202. Teoria da Vantagem Comparativa
+203. Princípio da Divisão do Trabalho
+204. Economias de Escala
+205. Deseconomias de Escala
+206. Efeitos de Rede
+207. Custo de Troca
+208. Efeito Lock-in
+209. Teoria da Sinalização Educacional
+210. Consumo Conspícuo de Veblen
+211. Teoria dos Bens Posicionais
+212. Elasticidade-preço da Demanda
+213. Teoria das Externalidades
+214. Tragédia dos Comuns
+215. Problema do Carona
+216. Teoria dos Bens Públicos
+217. Teorema de Coase
+218. Teoria dos Direitos de Propriedade
+219. Falha de Mercado
+220. Falha de Governo
+221. Rent-seeking
+222. Captura Regulatória
+223. Teoria da Escolha Pública
+224. Lei de Goodhart
+225. Lei de Campbell
+226. Hipótese dos Mercados Eficientes
+227. Teoria da Reflexividade de Soros
+228. Hipótese da Instabilidade Financeira de Minsky
+229. Efeito Cantillon
+230. Paradoxo de Jevons
+231. Paradoxo da Poupança
+232. Lei de Gresham
+233. Doença dos Custos de Baumol
+234. Teoria dos Contratos
+235. Design de Mecanismos
+236. Teoria da Preferência Revelada
+237. Teoria da Firma
+238. Teoria dos Mercados Contestáveis
+239. Problema da Informação Local de Hayek
+240. Ordem Espontânea
+241. Dilema do Prisioneiro
+242. Jogo de Soma Zero
+243. Jogo de Soma Positiva
+244. Jogo de Coordenação
+245. Equilíbrio de Nash
+246. Estratégia Dominante
+247. Eliminação de Estratégias Dominadas
+248. Conceito de Melhor Resposta Estratégica
+249. Jogos Repetidos
+250. Sombra do Futuro
+251. Estratégia Tit-for-Tat
+252. Ponto Focal de Schelling
+253. Caça ao Cervo
+254. Jogo da Galinha
+255. Jogo de Sinalização
+256. Indução Retroativa
+257. Jogo do Ultimato
+258. Jogo do Ditador
+259. Jogo de Confiança
+260. Jogo do Bem Público
+261. Estratégia Mista
+262. Estratégia Maximin
+263. Estratégia Minimax
+264. Equilíbrio Perfeito em Subjogos
+265. Informação Completa e Informação Incompleta
+266. Informação Perfeita e Informação Imperfeita
+267. Conhecimento Comum
+268. Equilíbrio Separador
+269. Equilíbrio Agregador
+270. Estratégia de Screening
+271. Jogos Bayesianos
+272. Equilíbrio Bayesiano Perfeito
+273. Equilíbrio Sequencial
+274. Equilíbrio de Mão Trêmula
+275. Teorema Popular dos Jogos Repetidos
+276. Leilão de Primeiro Preço
+277. Leilão de Segundo Preço
+278. Teoria dos Leilões
+279. Maldição do Vencedor
+280. Problema do Hold-up
+281. Teoria da Seleção Natural
+282. Teoria da Seleção Sexual
+283. Teoria da Seleção de Parentesco
+284. Aptidão Inclusiva
+285. Teoria do Investimento Parental
+286. Teoria das Estratégias Sexuais
+287. Teoria da História de Vida
+288. Hipótese do Mismatch Evolutivo
+289. Teoria da Gestão do Erro
+290. Teoria do Conflito Sexual
+291. Competição Intrassexual
+292. Escolha Intersexual
+293. Teoria do Conflito Pais-Filhos
+294. Princípio de Trivers-Willard
+295. Teoria da Assimetria Parental
+296. Teoria da Guarda de Parceiro
+297. Teoria do Ciúme Adaptativo
+298. Teoria da Seleção Multinível
+299. Estratégia Evolutivamente Estável
+300. Seleção Dependente de Frequência
+301. Teoria da Sinalização Custosa
+302. Princípio do Handicap
+303. Hipótese da Rainha Vermelha
+304. Corrida Armamentista Evolutiva
+305. Teoria da Competição Espermática
+306. Hipótese do Gene Egoísta
+307. Teoria da Dupla Herança
+308. Teoria da Coevolução Gene-Cultura
+309. Teoria da Construção de Nicho
+310. Hipótese da Autodomesticação Humana
+311. Teoria da Seleção Social
+312. Teoria da Seleção de Grupo Cultural
+313. Hipótese do Filho Sexy
+314. Modelo Fisheriano de Seleção Sexual
+315. Hipótese dos Bons Genes
+316. Hipótese dos Bons Provedores
+317. Hipótese da Imunocompetência na Atratividade
+318. Teoria do Estresse Parasitário
+319. Modelo dos Três Domínios do Nojo
+320. Hipótese do Sistema Imunológico Comportamental
+321. Teoria do Processo Oponente
+322. Teoria da Sensibilidade ao Reforço de Gray
+323. Modelo BIS/BAS de Motivação
+324. Teoria da Ativação de Traços
+325. Modelo de Temperamento de Kagan
+326. Modelo de Processamento Preditivo
+327. Princípio da Energia Livre
+328. Teoria da Autopercepção de Bem
+329. Modelo de Controle Perceptivo
+330. Teoria da Supressão Irônica
+331. Modelo de Alostase Psicológica
+332. Modelo Vulnerabilidade-Estresse
+333. Teoria Polivagal
+334. Teoria dos Scripts Cognitivos
+335. Modelo de Internalização Organísmica
+336. Teoria dos Sistemas Motivacionais
+337. Teoria da Gestão do Terror
+338. Efeito Placebo
+339. Efeito Nocebo
+340. Garden of Forking Paths
+341. Problema das Comparações Múltiplas
+342. Teoria do Equilíbrio Geral
+343. Teoria da Precificação por Arbitragem
+344. Teoria dos Jogos Aplicada a Mercados
+345. Dinâmica Replicadora
+346. Teoria dos Jogos Evolutiva
+347. Jogo da Guerra de Atrito
+348. Dilema do Voluntário
+349. Jogo de Entrada no Mercado
+350. Modelo de Cournot
+351. Modelo de Bertrand
+352. Modelo de Stackelberg
+353. Teoria da Detecção de Agência
+354. Teoria Modular da Mente
+355. Teoria dos Contratos Sociais na Cognição
+356. Hipótese da Inteligência Ecológica
+357. Teoria da Transmissão Cultural Enviesada
+358. Hipótese da Fofoca de Dunbar
+359. Hipótese da Linguagem como Grooming Social
+360. Teoria da Evolução de Normas Sociais
