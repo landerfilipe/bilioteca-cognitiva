@@ -1,4 +1,9 @@
 {
   "cssTheme": "Baseline",
-  "accentColor": "#000000"
+  "accentColor": "#000000",
+  "enabledCssSnippets": [
+    "internal-links-red-bold"
+  ],
+  "textFontFamily": "Crimson Pro,EB Garamond,Crimson Text,Baskervville",
+  "baseFontSize": 18
 }

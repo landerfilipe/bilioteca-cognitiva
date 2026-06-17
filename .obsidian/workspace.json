@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "41dbdb9d0106af89",
+        "id": "5658c01db2cb70ae",
         "type": "tabs",
         "children": [
           {
-            "id": "1ed7fa6a773312a4",
+            "id": "d5bc2c976bf99898",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dicionário/Artigos/Separação entre Fato, Inferência, Hipótese e Juízo.md",
+                "file": "Dicionário/Teoria da Sinalização.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Separação entre Fato, Inferência, Hipótese e Juízo"
+              "title": "Teoria da Sinalização"
+            }
+          },
+          {
+            "id": "0964783811967977",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dicionário/→ Modelo (prompt).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "→ Modelo (prompt)"
             }
           }
         ]
@@ -200,32 +214,41 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "1ed7fa6a773312a4",
+  "active": "d5bc2c976bf99898",
   "lastOpenFiles": [
-    "Dicionário/Artigos/Hipótese da Rainha Vermelha.md",
-    "Dicionário/Artigos/Falso Futuro (Future Faking).md",
-    "Dicionário/→ Arquivos/Sem título.md",
-    "Dicionário/Artigos",
-    "Dicionário/Infográficos/Separação entre Fato, Inferência, Hipótese e Juízo.png",
-    "Dicionário/→ Arquivos/biblioteca_estrategista~11498.tmp",
-    "Dicionário/Artigos/Separação entre Fato, Inferência, Hipótese e Juízo.md",
+    "Dicionário/01. Artigos/Separação entre Fato, Inferência, Hipótese e Juízo.md",
     "Dicionário/→ Modelo (prompt).md",
+    "Dicionário/01. Artigos/Assimetria.md",
+    "Dicionário/02. Infográficos/Assimetria.png",
+    "Dicionário/Teoria da Sinalização.md",
+    "Dicionário/02. Infográficos/Separação entre Fato, Inferência, Hipótese e Juízo.png",
+    "Dicionário/02. Infográficos/Teoria da Sinalização.png",
+    "Dicionário/01. Artigos/Custo de Oportunidade.md",
+    "Dicionário/01. Artigos/Hipótese da Rainha Vermelha.md",
+    "Dicionário/01. Artigos/Falso Futuro (Future Faking).md",
     "Dicionário/→ DICIONÁRIO (Taxonomia).md",
+    "Teoria da Sinalização.md",
+    "Dicionário/03. Apresentações (PPTX & PDF)/Custo de Oportunidade.pdf",
+    "Dicionário/03. Apresentações (PPTX & PDF)/Separação entre Fato, Inferência, Hipótese e Juízo.pdf",
+    "Dicionário/03. Apresentações (PPTX & PDF)/Hipótese da Rainha Vermelha.pdf",
+    "Dicionário/03. Apresentações (PPTX & PDF)/Future Faking.pdf",
+    "Dicionário/02. Infográficos/Future Faking.png",
+    "Dicionário/Artigos/Sem título.md",
+    "Dicionário/Apresentações (PPTX & PDF)/~$Future Faking.pptx",
+    "Dicionário/Apresentações (PPTX & PDF)/Future Faking.pptx",
+    "Dicionário/03. Apresentações (PPTX & PDF)",
+    "Dicionário/02. Infográficos/Custo de Oportunidade.png",
+    "Dicionário/Arquivos/biblioteca_estrategista~3E14F.tmp",
+    "Dicionário/Arquivos/~$blioteca_estrategista.docx",
+    "Dicionário/→ Arquivos/Sem título.md",
+    "Dicionário/01. Artigos",
     "Fato, Inferência, Hipótese e Juízo.md",
-    "Dicionário/Infográficos/Future Faking.png",
-    "Dicionário/→ Arquivos/~$blioteca_estrategista.docx",
-    "Dicionário/Infográficos/Hipótese da Rainha Vermelha.png",
-    "Dicionário/Arquivos/biblioteca_estrategista.pdf",
-    "Dicionário/~$blioteca_estrategista.docx",
-    "Dicionário/Arquivos",
-    "Dicionário/Infográficos",
+    "Dicionário/02. Infográficos/Hipótese da Rainha Vermelha.png",
     "dicionario.md",
-    "Dicionário/Taxonomia_files/libs/quarto-html/tabsets/tabsets.js",
-    "Dicionário/Taxonomia_files/libs/quarto-html/tippy.umd.min.js",
-    "Dicionário/Taxonomia_files/libs/quarto-html/tippy.css",
     "Dicionário/dicionario.md",
     "Dicionário/lista.md",
     "Livros.md"

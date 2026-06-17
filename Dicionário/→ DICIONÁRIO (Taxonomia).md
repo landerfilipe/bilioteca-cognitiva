@@ -100,7 +100,7 @@
 100. Problema do Sobreajuste — Overfitting
 101. Princípio da Validação Fora da Amostra
 102. Falácia de McNamara — Reducionismo Métrico
-103. Princípio do Custo de Oportunidade
+103. [[Custo de Oportunidade]] 
 104. Princípio da Análise Marginal
 105. Lei da Utilidade Marginal Decrescente
 106. Modelo de Valor Esperado
@@ -147,12 +147,12 @@
 147. Teoria dos Custos de Transação
 148. Teoria dos Direitos de Propriedade
 149. Teorema de Coase
-150. Problema da Assimetria de Informação
+150. [[Assimetria de Informação]]
 151. Problema da Seleção Adversa
 152. Problema do Risco Moral
 153. Problema Agente-Principal
 154. Estratégia de Screening
-155. Teoria da Sinalização
+155. [[Teoria da Sinalização]]
 156. Princípio da Sinalização Custosa
 157. Teoria do Capital Humano
 158. Conceito de Capital Social
@@ -426,46 +426,47 @@
 426. Problema da Dependência Construída
 427. Técnica da Normalização Gradual
 428. Técnica de Love Bombing
-429. [[Falso Futuro (Future Faking)]]
-430. Técnica de Gaslighting
-431. Técnica DARVO
-432. Técnica JADE
-433. Técnica Grey Rock
-434. Modelo de Registro Escrito de Acordos
-435. Princípio da Consequência Real
-436. Princípio da Saída Limpa
-437. Modelo do Condicionamento Clássico
-438. Modelo do Condicionamento Operante
-439. Princípio do Reforço Positivo
-440. Princípio do Reforço Negativo
-441. Princípio da Extinção Comportamental
-442. Princípio do Reforço Intermitente
-443. Modelo do Loop do Hábito
-444. Modelo Gatilho-Rotina-Recompensa
-445. Técnica de Intenção de Implementação
-446. Modelo de Design de Ambiente Comportamental
-447. Princípio da Fricção Comportamental
-448. Modelo de Dispositivo de Compromisso
-449. Teoria da Autodeterminação
-450. Teoria da Autoeficácia
-451. Teoria do Desamparo Aprendido
-452. Teoria da Orientação para Objetivos
-453. Hipótese da Mentalidade de Crescimento
-454. Teoria da Regulação do Foco
-455. Modelo COM-B de Mudança Comportamental
-456. Lei de Yerkes-Dodson
-457. Modelo de Regulação Emocional de James Gross
-458. Técnica de Reavaliação Cognitiva
-459. Problema da Supressão Emocional
-460. Princípio da Exposição Graduada
-461. Modelo de Evitação Experiencial
-462. Modelo de Flexibilidade Psicológica
-463. Modelo ABC da Terapia Cognitivo-Comportamental
-464. Efeito Placebo
-465. Efeito Nocebo
-466. Teoria da Supressão Irônica
-467. Hipótese da Depleção do Autocontrole
-468. Técnica de Controle de Estímulos
-469. Técnica de Reforço Diferencial
-470. Modelo de Cadeia Comportamental
-471. [[Hipótese da Rainha Vermelha]]
+429. [[Falso Futuro (Future Faking)]] 
+430. Gaslighting
+431. Goalpost Shifiting
+432. Técnica DARVO
+433. Técnica JADE
+434. Técnica Grey Rock
+435. Modelo de Registro Escrito de Acordos
+436. Princípio da Consequência Real
+437. Princípio da Saída Limpa
+438. Modelo do Condicionamento Clássico
+439. Modelo do Condicionamento Operante
+440. Princípio do Reforço Positivo
+441. Princípio do Reforço Negativo
+442. Princípio da Extinção Comportamental
+443. Princípio do Reforço Intermitente
+444. Modelo do Loop do Hábito
+445. Modelo Gatilho-Rotina-Recompensa
+446. Técnica de Intenção de Implementação
+447. Modelo de Design de Ambiente Comportamental
+448. Princípio da Fricção Comportamental
+449. Modelo de Dispositivo de Compromisso
+450. Teoria da Autodeterminação
+451. Teoria da Autoeficácia
+452. Teoria do Desamparo Aprendido
+453. Teoria da Orientação para Objetivos
+454. Hipótese da Mentalidade de Crescimento
+455. Teoria da Regulação do Foco
+456. Modelo COM-B de Mudança Comportamental
+457. Lei de Yerkes-Dodson
+458. Modelo de Regulação Emocional de James Gross
+459. Técnica de Reavaliação Cognitiva
+460. Problema da Supressão Emocional
+461. Princípio da Exposição Graduada
+462. Modelo de Evitação Experiencial
+463. Modelo de Flexibilidade Psicológica
+464. Modelo ABC da Terapia Cognitivo-Comportamental
+465. Efeito Placebo
+466. Efeito Nocebo
+467. Teoria da Supressão Irônica
+468. Hipótese da Depleção do Autocontrole
+469. Técnica de Controle de Estímulos
+470. Técnica de Reforço Diferencial
+471. Modelo de Cadeia Comportamental
+472. [[Hipótese da Rainha Vermelha]]
