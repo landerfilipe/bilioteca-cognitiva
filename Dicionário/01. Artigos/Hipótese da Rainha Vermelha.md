@@ -5,15 +5,15 @@ data: 15/06/2026
 modelo: GPT 5.5
 ---
 ---
-# Hipótese da Rainha Vermelha
+# HIPÓTESE DA RAINHA VERMELHA
 
 ## Resumo
 
-A hipótese da Rainha Vermelha afirma que organismos, indivíduos, empresas ou grupos precisam evoluir continuamente apenas para manter sua posição relativa. Ela serve para entender ambientes competitivos em que a melhora de um agente força a adaptação dos demais. O erro que ajuda a evitar é acreditar que uma vantagem atual permanecerá estável enquanto o ambiente ao redor continua se movendo.
+*A hipótese da Rainha Vermelha afirma que organismos, indivíduos, empresas ou grupos precisam evoluir continuamente apenas para manter sua posição relativa. Ela serve para entender ambientes competitivos em que a melhora de um agente força a adaptação dos demais. O erro que ajuda a evitar é acreditar que uma vantagem atual permanecerá estável enquanto o ambiente ao redor continua se movendo.*
 
 ## Ideia central
 
-> *Em sistemas competitivos, ficar parado não preserva sua posição; apenas garante que você será ultrapassado.*
+> Em sistemas competitivos, ficar parado não preserva sua posição; apenas garante que você será ultrapassado.
 
 ## Explicação
 

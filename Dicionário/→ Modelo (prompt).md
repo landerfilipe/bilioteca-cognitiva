@@ -5,18 +5,17 @@ data:
 modelo:
 ---
 ---
-# Tema
+# TEMA
 
 ## Resumo
-Síntese curta do conceito em 3 a 6 linhas.  
-Deve responder: o que é, para que serve e qual erro ajuda a evitar.
+*Síntese curta do conceito em 3 a 6 linhas [em itálico]. Deve responder: o que é, para que serve e qual erro ajuda a evitar.*
 
 ## Ideia central
 Uma frase forte que capture o núcleo do tema.
 
 Exemplo:
 
-> *A taxa-base impede que uma impressão individual pareça mais informativa do que realmente é.*
+> A taxa-base impede que uma impressão individual pareça mais informativa do que realmente é.
 
 ## Explicação
 Texto corrido, em formato de artigo.  

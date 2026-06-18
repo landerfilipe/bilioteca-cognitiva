@@ -152,7 +152,7 @@
 152. Problema do Risco Moral
 153. Problema Agente-Principal
 154. Estratégia de Screening
-155. [[Teoria da Sinalização]]
+155. [[Teoria dos Sinais]]
 156. Princípio da Sinalização Custosa
 157. Teoria do Capital Humano
 158. Conceito de Capital Social
@@ -470,3 +470,5 @@
 470. Técnica de Reforço Diferencial
 471. Modelo de Cadeia Comportamental
 472. [[Hipótese da Rainha Vermelha]]
+473. Free Riders
+474. Espiral da Seleção Adversa

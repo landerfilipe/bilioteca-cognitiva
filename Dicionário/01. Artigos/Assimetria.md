@@ -5,15 +5,15 @@ data: 15/06/2026
 modelo: GPT 5.5
 ---
 ---
-# Assimetria
+# ASSIMETRIA
 
 ## Resumo
 
-Assimetria é uma diferença relevante entre dois lados de uma relação, disputa, decisão ou sistema. Ela serve para identificar onde existe desequilíbrio de informação, poder, risco, custo, retorno ou capacidade de ação. Ajuda a evitar o erro de tratar situações desiguais como se fossem equivalentes. Quem ignora assimetrias calcula mal o jogo: subestima ameaças, superestima vantagens e entra em disputas nas quais o resultado já estava inclinado contra ele.
+*Assimetria é uma diferença relevante entre dois lados de uma relação, disputa, decisão ou sistema. Ela serve para identificar onde existe desequilíbrio de informação, poder, risco, custo, retorno ou capacidade de ação. Ajuda a evitar o erro de tratar situações desiguais como se fossem equivalentes. Quem ignora assimetrias calcula mal o jogo: subestima ameaças, superestima vantagens e entra em disputas nas quais o resultado já estava inclinado contra ele.*
 
 ## Ideia central
 
-> *Assimetria é a diferença que muda o resultado mesmo quando a superfície parece equilibrada.*
+> Assimetria é a diferença que muda o resultado mesmo quando a superfície parece equilibrada.
 
 ## Explicação
 
@@ -51,7 +51,7 @@ A assimetria também deve ser usada como _[[filtro de oportunidade]]_. Estratég
 
 A função do conceito é impedir que você entre em jogos desequilibrados sem perceber. Antes de agir, encontre a diferença que move o resultado. Depois decida se deve explorá-la, corrigir sua posição ou sair do jogo.
 
-
+![[Assimetria.pdf]]
 ## Referências
 
 1. George A. Akerlof, _An Economic Theorist’s Book of Tales_

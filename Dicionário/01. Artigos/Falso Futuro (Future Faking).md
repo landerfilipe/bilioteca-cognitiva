@@ -9,11 +9,11 @@ modelo: GPT 5.5
 
 ## Resumo
 
-_Future faking_ é uma técnica de manipulação em que alguém promete um **futuro grandioso, íntimo ou vantajoso** para obter controle, confiança, sexo, dinheiro, lealdade ou paciência no presente. Serve para criar apego antes que existam provas reais de compromisso. O erro que ajuda a evitar é confundir _promessa emocional_ com investimento concreto.
+*Future faking é uma técnica de manipulação em que alguém promete um **futuro grandioso, íntimo ou vantajoso** para obter controle, confiança, sexo, dinheiro, lealdade ou paciência no presente. Serve para criar apego antes que existam provas reais de compromisso. O erro que ajuda a evitar é confundir promessa emocional com investimento concreto.*
 
 ## Ideia central
 
-> *Future faking transforma um futuro imaginário em moeda de troca para comprar sua entrega no presente.*
+> Future faking transforma um futuro imaginário em moeda de troca para comprar sua entrega no presente.
 
 ## Explicação
 

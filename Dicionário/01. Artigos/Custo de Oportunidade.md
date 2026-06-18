@@ -5,16 +5,16 @@ data: 15/06/2026
 modelo: GPT 5.5
 ---
 ---
-# Custo de oportunidade
+# CUSTO DE OPORTUNIDADE
 
 ## Resumo
 
-Custo de oportunidade é o valor da melhor alternativa sacrificada quando você escolhe uma opção.  Ele serve para revelar o preço real de uma decisão, além do dinheiro gasto. Ajuda a evitar o erro de avaliar escolhas apenas pelo benefício visível, ignorando aquilo que foi abandonado.  
-Toda decisão consome recursos escassos: tempo, energia, atenção, capital e reputação.
+*Custo de oportunidade é o valor da melhor alternativa sacrificada quando você escolhe uma opção.  Ele serve para revelar o preço real de uma decisão, além do dinheiro gasto. Ajuda a evitar o erro de avaliar escolhas apenas pelo benefício visível, ignorando aquilo que foi abandonado.*  
+*Toda decisão consome recursos escassos: tempo, energia, atenção, capital e reputação.*
 
 ## Ideia central
 
-> *Toda escolha cobra o preço invisível daquilo que você deixou de fazer.*
+> Toda escolha cobra o preço invisível daquilo que você deixou de fazer.
 
 ## Explicação
 
