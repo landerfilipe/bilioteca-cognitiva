@@ -2,7 +2,7 @@
   "cssTheme": "",
   "accentColor": "#006767",
   "enabledCssSnippets": [
-    "internal-links-red-bold"
+    "obsidian-snippets"
   ],
   "textFontFamily": "Crimson Pro",
   "baseFontSize": 18,

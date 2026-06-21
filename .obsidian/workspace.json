@@ -20,18 +20,6 @@
               "icon": "lucide-file",
               "title": "Inferência Bayesiana"
             }
-          },
-          {
-            "id": "a4b19d4001265beb",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Dicionário/02. Infográficos/Inferência Bayesiana.png"
-              },
-              "icon": "lucide-image",
-              "title": "Inferência Bayesiana"
-            }
           }
         ]
       }
@@ -227,11 +215,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2b754fd89b10f05f",
+  "active": "7e3d9cfb0ed16fca",
   "lastOpenFiles": [
-    "Dicionário/03. Apresentações (PPTX & PDF)/Inferência Bayesiana.pdf",
-    "Dicionário/01. Artigos/Inferência Bayesiana.md",
     "Dicionário/02. Infográficos/Inferência Bayesiana.png",
+    "Dicionário/01. Artigos/Inferência Bayesiana.md",
+    "Dicionário/+ DICIONÁRIO (Taxonomia).md",
+    "Dicionário/Pensamento Adversarial (Red Team Thinking).md",
+    "Dicionário/Falsa Equivalência.md",
+    "Dicionário/03. Apresentações (PPTX & PDF)/Inferência Bayesiana.pdf",
     "Dicionário/01. Artigos/Navalha de Occam.md",
     "Dicionário/03. Apresentações (PPTX & PDF)/Navalha de Occam.pdf",
     "Dicionário/02. Infográficos/Navalha de Occam.png",
@@ -245,12 +236,9 @@
     "Dicionário/01. Artigos/DARVO.md",
     "Dicionário/01. Artigos/Custo de Oportunidade.md",
     "Dicionário/01. Artigos/Assimetria.md",
-    "Dicionário/Pensamento Adversarial (Red Team Thinking).md",
-    "Dicionário/Falsa Equivalência.md",
     "Dicionário/03. Apresentações (PPTX & PDF)/Pensamento Adversarial.pdf",
     "Dicionário/02. Infográficos/Atualização Bayesiana de Crenças.png",
     "Dicionário/02. Infográficos/Pensamento Adversarial.png",
-    "Dicionário/+ DICIONÁRIO (Taxonomia).md",
     "Dicionário/03. Apresentações (PPTX & PDF)/DARVO.pdf",
     "Dicionário/02. Infográficos/DARVO.png",
     "_ligação traumática.md",
