@@ -1,7 +1,7 @@
 ---
 Nome: "[[Reforço Intermitente]]"
 categoria: Psicologia
-data: 19/06/2026
+data: 19 de junho de 2026
 modelo: Sonnet 4.6
 ---
 ---
@@ -11,12 +11,10 @@ modelo: Sonnet 4.6
 
 _O reforço intermitente é um esquema de condicionamento operante no qual uma recompensa é entregue de forma imprevisível, sem correspondência fixa com o comportamento emitido. Foi sistematizado por B.F. Skinner ao observar que ratos submetidos a esse padrão de recompensa produziam respostas comportamentais dramaticamente mais resistentes à extinção do que aqueles reforçados de maneira contínua. O conceito serve para explicar a persistência irracional em comportamentos aparentemente destrutivos — jogos de azar, relacionamentos abusivos, redes sociais, negociações manipulativas — e ajuda a evitar o erro de confundir intensidade de resposta emocional com valor real do estímulo._
 
----
 ## Ideia Central
 
 > O reforço intermitente não torna algo valioso — ele torna algo _viciante_, e o cérebro humano é incapaz de distinguir a diferença sem intervenção analítica deliberada.
 
----
 ## Explicação
 
 O ponto de partida é o trabalho experimental de Skinner na década de 1930. Em seus estudos sobre condicionamento operante, ele identificou que o comportamento aprendido sob reforço contínuo — onde cada resposta correta é recompensada — é também o comportamento mais rapidamente extinto quando a recompensa para. A explicação é simples: o organismo detecta com precisão quando a contingência mudou e recalibra o comportamento de acordo. Não há ambiguidade, então não há razão para persistir.
@@ -62,5 +60,4 @@ Nas negociações, o princípio se traduz em _cadência irregular de concessões
 4. Patrick Carnes, _The Betrayal Bond: Breaking Free of Exploitive Relationships_
 5. Adam Alter, _Irresistible: The Rise of Addictive Technology and the Business of Keeping Us Hooked_
 
----
 

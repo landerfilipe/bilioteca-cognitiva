@@ -1,8 +1,8 @@
 /* Internal Obsidian links: standard blue + bold in Reading View, Live Preview, and Source mode. */
 body {
-  --link-color: #0414d2 !important;
-  --link-color-hover: #0414d2 !important;
-  --link-unresolved-color: #0414d2 !important;
+  --link-color: #006767 !important;
+  --link-color-hover: #006767 !important;
+  --link-unresolved-color: #006767 !important;
   --link-unresolved-opacity: 1 !important;
   --link-weight: 700 !important;
 }
@@ -13,7 +13,7 @@ body {
 .markdown-preview-view a.internal-link,
 .markdown-preview-view a.internal-link:hover,
 .markdown-preview-view a.internal-link.is-unresolved {
-  color: #0414d2 !important;
+  color: #006767 !important;
   font-weight: 700 !important;
 }
 
@@ -25,26 +25,64 @@ body {
 .markdown-source-view.mod-cm6 .cm-url *,
 .markdown-source-view.mod-cm6 .cm-formatting-link,
 .markdown-source-view.mod-cm6 .cm-formatting-link * {
-  color: #0414d2 !important;
+  color: #006767 !important;
   font-weight: 700 !important;
 }
 
 /* Baseline highlight: slightly more opaque, fully square corners. */
 body {
-  --text-highlight-bg: rgba(255, 240, 133, 0.4) !important;
+  --text-highlight-bg: rgba(238, 238, 238, 1) !important;
 }
 
 .markdown-rendered mark,
 .markdown-preview-view mark,
 .markdown-source-view.mod-cm6 .cm-highlight,
 .markdown-source-view.mod-cm6 .cm-formatting-highlight {
-  background-color: rgba(255, 240, 133, 0.4) !important;
+  background-color: rgba(238, 238, 238, 1) !important;
+  font-weight: 500;
+  padding: 0.1em !important;
   border-radius: 0 !important;
   box-decoration-break: clone;
   -webkit-box-decoration-break: clone;
 }
 
-/*.markdown-rendered,
-.markdown-source-view {
-  font-weight: 500;
+
+/* Headings h1–h4 in red (Reading View, Live Preview, Source Mode) */
+.markdown-rendered h1, .markdown-preview-view h1,
+.markdown-rendered h2, .markdown-preview-view h2,
+.markdown-rendered h3, .markdown-preview-view h3,
+.markdown-rendered h4, .markdown-preview-view h4 {
+  color: #006767 !important;
+}
+
+.markdown-rendered h1, .markdown-preview-view h1 {
+  text-transform: uppercase !important;
+}
+
+/*.markdown-source-view.mod-cm6 .cm-header-1 {
+  text-transform: uppercase !important;
 }*/
+
+.markdown-source-view.mod-cm6 .cm-header-1,
+.markdown-source-view.mod-cm6 .cm-header-2,
+.markdown-source-view.mod-cm6 .cm-header-3,
+.markdown-source-view.mod-cm6 .cm-header-4 {
+  color: #006767 !important;
+}
+
+/* Note inline title (the large title at the top of each note) */
+.inline-title {
+  color: #006767 !important;
+}
+
+/* LaTeX font size — inline (Live Preview: span.math; Reading View: span.math.math-inline) */
+span.math mjx-container,
+.math.math-inline mjx-container {
+  font-size: 0.8em !important;
+}
+
+/* LaTeX font size — block */
+.math.math-block mjx-container {
+  font-size: 0.9em !important;
+}
+

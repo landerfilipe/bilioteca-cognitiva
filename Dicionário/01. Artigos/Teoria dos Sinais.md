@@ -1,7 +1,7 @@
 ---
 Nome: "[[Teoria dos Sinais]]"
 categoria: Economia
-data: 17/06/2026
+data: 17 de junho de 2026
 modelo: GPT 5.5
 ---
 ---

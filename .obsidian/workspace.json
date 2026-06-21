@@ -4,39 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "179e91bc39d8526a",
+        "id": "7c3eb2bd0becfaa2",
         "type": "tabs",
         "children": [
           {
-            "id": "bbc1aa8f4007a53c",
+            "id": "7e3d9cfb0ed16fca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dicionário/01. Artigos/Reforço Intermitente.md",
-                "mode": "source",
+                "file": "Dicionário/01. Artigos/Inferência Bayesiana.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reforço Intermitente"
+              "title": "Inferência Bayesiana"
             }
           },
           {
-            "id": "da15b8c4e85cc4bc",
+            "id": "a4b19d4001265beb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Dicionário/+ DICIONÁRIO (Taxonomia).md",
-                "mode": "source",
-                "source": false
+                "file": "Dicionário/02. Infográficos/Inferência Bayesiana.png"
               },
-              "icon": "lucide-file",
-              "title": "+ DICIONÁRIO (Taxonomia)"
+              "icon": "lucide-image",
+              "title": "Inferência Bayesiana"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 313.5
   },
   "right": {
     "id": "ced97a2e93c1c048",
@@ -109,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dicionário/01. Artigos/Inferência Bayesiana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos"
+              "title": "Links inversos para Inferência Bayesiana"
             }
           },
           {
@@ -127,11 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dicionário/01. Artigos/Inferência Bayesiana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída"
+              "title": "Links de saída para Inferência Bayesiana"
             }
           },
           {
@@ -208,7 +207,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -228,53 +227,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da15b8c4e85cc4bc",
+  "active": "2b754fd89b10f05f",
   "lastOpenFiles": [
-    "Dicionário/+ Modelo (prompt).md",
+    "Dicionário/03. Apresentações (PPTX & PDF)/Inferência Bayesiana.pdf",
+    "Dicionário/01. Artigos/Inferência Bayesiana.md",
+    "Dicionário/02. Infográficos/Inferência Bayesiana.png",
+    "Dicionário/01. Artigos/Navalha de Occam.md",
+    "Dicionário/03. Apresentações (PPTX & PDF)/Navalha de Occam.pdf",
+    "Dicionário/02. Infográficos/Navalha de Occam.png",
+    "Dicionário/01. Artigos/Incerteza Residual.md",
+    "Dicionário/01. Artigos/Fato, Inferência, Hipótese e Juízo.md",
+    "Dicionário/01. Artigos/Teoria dos Sinais.md",
+    "Dicionário/01. Artigos/Reforço Intermitente.md",
+    "Dicionário/01. Artigos/Hipótese da Rainha Vermelha.md",
+    "Dicionário/01. Artigos/Falso Futuro (Future Faking).md",
+    "Dicionário/01. Artigos/Descrição, Explicação e Recomendação.md",
+    "Dicionário/01. Artigos/DARVO.md",
+    "Dicionário/01. Artigos/Custo de Oportunidade.md",
+    "Dicionário/01. Artigos/Assimetria.md",
+    "Dicionário/Pensamento Adversarial (Red Team Thinking).md",
+    "Dicionário/Falsa Equivalência.md",
+    "Dicionário/03. Apresentações (PPTX & PDF)/Pensamento Adversarial.pdf",
+    "Dicionário/02. Infográficos/Atualização Bayesiana de Crenças.png",
+    "Dicionário/02. Infográficos/Pensamento Adversarial.png",
     "Dicionário/+ DICIONÁRIO (Taxonomia).md",
+    "Dicionário/03. Apresentações (PPTX & PDF)/DARVO.pdf",
+    "Dicionário/02. Infográficos/DARVO.png",
     "_ligação traumática.md",
     "Dicionário/03. Apresentações (PPTX & PDF)/Reforço Intermitente.pdf",
-    "Dicionário/01. Artigos/Reforço Intermitente.md",
     "Dicionário/02. Infográficos/Reforço Intermitente.png",
     "Dicionário/03. Apresentações (PPTX & PDF)/Incerteza Residual.pdf",
     "Dicionário/02. Infográficos/Incerteza Residual.png",
     "Dicionário/Princípio da Incerteza.md",
     "Dicionário/03. Apresentações (PPTX & PDF)/Princípio da Incerteza.pdf",
     "Dicionário/02. Infográficos/Princípio da Incerteza.png",
-    "Dicionário/01. Artigos/Incerteza Residual.md",
-    "Dicionário/02. Infográficos/Navalha de Occam.png",
     "Dicionário/03. Apresentações (PPTX & PDF)/Princípio da Incerteza.png",
-    "Dicionário/01. Artigos/Descrição, Explicação e Recomendação.md",
     "Dicionário/03. Apresentações (PPTX & PDF)/Descrição, Explicação e Recomendação.pdf",
     "Dicionário/02. Infográficos/Descrição, Explicação e Recomendação.png",
-    "Dicionário/Navalha de Occam.md",
-    "Dicionário/Falsa Equivalência.md",
-    "Dicionário/03. Apresentações (PPTX & PDF)/Navalha de Occam.pdf",
     "Dicionário/03. Apresentações (PPTX & PDF)/Falsa Equivalência.pdf",
-    "Dicionário/02. Infográficos/Future Faking.png",
-    "Dicionário/02. Infográficos/Falsa Equivalência.png",
     "Sem título.canvas",
     "2026-06-17.md",
     "Sem título.base",
-    "Dicionário/01. Artigos/Assimetria.md",
-    "Dicionário/01. Artigos/Falso Futuro (Future Faking).md",
-    "ratio/vite.config.ts",
-    "ratio/tsconfig.node.json",
-    "ratio/tsconfig.json",
-    "ratio/src/assets/react.svg",
-    "ratio/public/pwa-192x192.png",
     "ratio/README.md",
-    "Dicionário/01. Artigos/Teoria dos Sinais.md",
-    "Dicionário/01. Artigos/Hipótese da Rainha Vermelha.md",
-    "Dicionário/01. Artigos/Fato, Inferência, Hipótese e Juízo.md",
-    "Dicionário/01. Artigos/Custo de Oportunidade.md",
     "Teoria da Sinalização.md",
     "Dicionário/Artigos/Sem título.md",
     "Dicionário/→ Arquivos/Sem título.md",
     "Fato, Inferência, Hipótese e Juízo.md",
     "dicionario.md",
-    "Dicionário/dicionario.md",
-    "Dicionário/lista.md",
-    "Livros.md"
+    "Dicionário/dicionario.md"
   ]
 }

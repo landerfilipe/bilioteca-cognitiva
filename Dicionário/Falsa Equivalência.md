@@ -1,7 +1,7 @@
 ---
 Nome: "[[Falsa Equivalência]]"
 categoria: Epistemologia
-data: 19/06/2026
+data: 19 de junho de 2026
 modelo: GPT 5.5
 ---
 ---

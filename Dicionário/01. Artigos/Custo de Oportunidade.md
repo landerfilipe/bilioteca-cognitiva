@@ -1,7 +1,7 @@
 ---
 Nome: "[[Custo de Oportunidade]]"
 categoria: Economia
-data: 15/06/2026
+data: 15 de junho de 2026
 modelo: GPT 5.5
 ---
 ---

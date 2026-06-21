@@ -3,7 +3,7 @@
 3. [[Incerteza Residual]]
 4. Princípio da Humildade Epistêmica
 5. Princípio da Taxa-base
-6. Modelo de Atualização Bayesiana de Crenças
+6. [[Inferência Bayesiana]]
 7. Princípio do Valor Diagnóstico da Evidência
 8. Modelo da Razão de Verossimilhança em Inferência Prática
 9. Modelo da Visão Externa — Outside View
@@ -23,7 +23,7 @@
 23. Princípio da Caridade Interpretativa
 24. [[Navalha de Occam]]
 25. Navalha de Hanlon
-26. Modelo do Red Team Thinking
+26. [[Pensamento Adversarial (Red Team Thinking)]]
 27. Modelo da Colaboração Adversarial
 28. Princípio do Mapa não é o Território
 29. Modelo da Estrutura Proposicional do Argumento
@@ -430,7 +430,7 @@
 430. [[Falso Futuro (Future Faking)]] 
 431. Gaslighting
 432. Goalpost Shifiting
-433. Técnica DARVO
+433. [[DARVO]]
 434. Técnica JADE
 435. Técnica Grey Rock
 436. Modelo de Registro Escrito de Acordos
