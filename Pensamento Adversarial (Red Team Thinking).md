@@ -24,7 +24,11 @@ O valor real do método, porém, não está na simulação de inimigos externos.
 
 É necessário separar o pensamento adversarial de duas imitações que o degradam. Ele não é _negatividade_ — a objeção genérica e improdutiva de quem apenas resiste. E não é _advocacia do diabo de teatro_, o ritual em que alguém é nomeado para discordar, discorda formalmente, e o grupo, tendo cumprido a liturgia da contestação, sente-se ainda mais legitimado a fazer o que já queria. A objeção encenada é pior que a ausência de objeção, porque **inocula** o plano contra a crítica real ao dar a sensação de que ela já foi feita. O pensamento adversarial autêntico exige que o atacante queira genuinamente derrubar o plano, opere com a informação completa e seja avaliado pela qualidade da ruptura que encontra, não pela performance de discordar.
 
+---
+
 ![[Pensamento Adversarial.png]]
+
+---
 ## Como usar
 
 A aplicação mais limpa e barata do método é o _pré-mortem_. Antes de comprometer recursos com uma decisão, você se transporta a um ponto no futuro em que ela já fracassou de forma inequívoca e responde, em prosa, à pergunta: _"estamos seis meses adiante e isto colapsou — o que o causou?"_. O ganho psicológico é mensurável. Perguntar _"o que pode dar errado?"_ aciona a defesa do plano e produz respostas evasivas; **afirmar que o fracasso já ocorreu** desativa essa defesa e libera a mente para gerar causas concretas que, sob a moldura otimista, ela se recusava a verbalizar. Aplicado a uma negociação salarial, o pré-mortem deixa de produzir o conforto de _"vou pedir um aumento de quinze por cento"_ e passa a gerar o material útil: o pedido fracassou porque a contraparte tinha uma âncora de mercado mais baixa que a minha e eu não trouxe dado externo para sustentar o número; porque escolhi o trimestre em que o orçamento já estava fechado; porque expus minha disposição de sair sem ter, de fato, uma alternativa concreta. Cada uma dessas causas é, agora, um ponto a corrigir **antes** de entrar na sala.
@@ -35,7 +39,11 @@ A terceira aplicação é a _análise de hipóteses concorrentes_, útil quando 
 
 A regra de implementação que torna tudo isto operacional é uma só: **o ataque ao plano deve ocorrer antes do compromisso, conduzido por você mesmo, com a frieza de quem realmente deseja que o plano caia.** O custo de descobrir uma falha no pré-mortem é a reescrita de algumas linhas. O custo de descobri-la em execução é a derrota inteira. A piedade pelo próprio plano é o luxo que o estrategista não pode pagar.
 
+---
+
 ![[Pensamento Adversarial.pdf]]
+
+---
 ## Referências
 
 1. Micah Zenko, _Red Team: How to Succeed by Thinking Like the Enemy_

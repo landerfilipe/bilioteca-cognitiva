@@ -5,6 +5,9 @@ body {
   --link-unresolved-color: #006767 !important;
   --link-unresolved-opacity: 1 !important;
   --link-weight: 700 !important;
+  --link-decoration: none !important;
+  --link-decoration-hover: none !important;
+  --link-unresolved-decoration: none !important;
 }
 
 .markdown-rendered a.internal-link,
@@ -15,6 +18,9 @@ body {
 .markdown-preview-view a.internal-link.is-unresolved {
   color: #006767 !important;
   font-weight: 700 !important;
+  text-decoration: none !important;
+  text-decoration-line: none !important;
+  border-bottom: none !important;
 }
 
 .markdown-source-view.mod-cm6 .cm-hmd-internal-link,
@@ -29,21 +35,21 @@ body {
   font-weight: 700 !important;
 }
 
-/* Baseline highlight: slightly more opaque, fully square corners. */
-body {
-  --text-highlight-bg: rgba(240, 236, 236, 0.75) !important; 
+
+/* Body text color */
+.markdown-source-view.mod-cm6 .cm-line,
+.markdown-rendered p,
+.markdown-preview-view p {
+  color: #464646 !important;
 }
 
-p { color: #3c3c3c !important;}
 
 .markdown-rendered mark,
 .markdown-preview-view mark,
 .markdown-source-view.mod-cm6 .cm-highlight,
 .markdown-source-view.mod-cm6 .cm-formatting-highlight {
-  background-color: rgba(240, 236, 236, 0.75) !important;
-  color: #053829;
-  font-weight: 500 !important;
-  padding: 0.1em 0.2em !important;
+  background-color: rgba(231, 226, 215, 0.4) !important; 
+  padding: 0.1em 0.3em !important;
   border-radius: 0 !important;
   box-decoration-break: clone;
   -webkit-box-decoration-break: clone;
@@ -58,14 +64,6 @@ p { color: #3c3c3c !important;}
   color: #006767 !important;
 }
 
-.markdown-rendered h1, .markdown-preview-view h1 {
-  text-transform: uppercase !important;
-}
-
-/*.markdown-source-view.mod-cm6 .cm-header-1 {
-  text-transform: uppercase !important;
-}*/
-
 .markdown-source-view.mod-cm6 .cm-header-1,
 .markdown-source-view.mod-cm6 .cm-header-2,
 .markdown-source-view.mod-cm6 .cm-header-3,
@@ -76,16 +74,24 @@ p { color: #3c3c3c !important;}
 /* Note inline title (the large title at the top of each note) */
 .inline-title {
   color: #006767 !important;
+  text-transform: uppercase !important;
+}
+
+/* Compensate gap when bold/italic highlight follows another highlight */
+.markdown-source-view.mod-cm6 .cm-highlight.cm-strong,
+.markdown-source-view.mod-cm6 .cm-highlight.cm-em {
+  margin-left: -0.4em;
 }
 
 /* LaTeX font size — inline (Live Preview: span.math; Reading View: span.math.math-inline) */
 span.math mjx-container,
 .math.math-inline mjx-container {
-  font-size: 0.8em !important;
+  font-size: 0.9em !important;
 }
 
 /* LaTeX font size — block */
 .math.math-block mjx-container {
-  font-size: 0.9em !important;
+  font-size: 1em !important;
 }
+
 

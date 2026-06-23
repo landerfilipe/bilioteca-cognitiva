@@ -5,7 +5,7 @@ data: 15 de junho de 2026
 modelo: GPT 5.5
 ---
 ---
-# HIPÓTESE DA RAINHA VERMELHA
+# Hipótese da Rainha Vermelha
 
 ## Resumo
 

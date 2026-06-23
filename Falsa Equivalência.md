@@ -47,8 +47,11 @@ Em qualquer ambiente competitivo, essa falácia também pode ser usada como arma
 
 A resposta eficiente é separar os assuntos. “Meu erro pode ser discutido. Mas ele não altera a gravidade nem a natureza do que está sendo analisado agora.” Essa frase impede que a conversa seja desviada para uma competição de imperfeições.
 
-[ESPAÇO RESERVADO PARA INFOGRÁFICO]
+---
 
+![[Falsa Equivalência.png]]
+
+---
 ## Como usar
 
 Use esse princípio sempre que alguém tentar resumir uma situação complexa em uma frase simétrica. Quando ouvir “os dois lados são iguais”, interrompa a conclusão automática e examine os critérios. Igual em quê? Na ação? Na intenção? No impacto? Na frequência? No poder envolvido? No dano causado? Sem uma resposta específica, a equivalência provavelmente é apenas uma tentativa de simplificar algo que não deveria ser simplificado.
@@ -65,19 +68,16 @@ Também aplique o método contra si mesmo. Quando estiver tentando justificar um
 
 A regra prática é simples: nunca aceite uma equivalência antes de verificar as variáveis que ela apagou. Compare ações concretas, não rótulos. Compare impacto, não intenção declarada. Compare padrões, não episódios isolados. Compare custos reais, não frases convenientes.
 
-[ESPAÇO RESERVADO PARA APRESENTAÇÃO]
+---
 
+![[Falsa Equivalência.pdf]]
+
+---
 ## Referências
 
 1. T. Edward Damer, _Attacking Faulty Reasoning_
-    
 2. Irving M. Copi, Carl Cohen e Kenneth McMahon, _Introduction to Logic_
-    
 3. Douglas Walton, _Informal Logic: A Pragmatic Approach_
-    
 4. Madsen Pirie, _How to Win Every Argument_
-    
 5. Tracy Bowell e Gary Kemp, _Critical Thinking: A Concise Guide_
-    
 
-_Desde que você saia vitorioso no final, é tudo o que importa._
