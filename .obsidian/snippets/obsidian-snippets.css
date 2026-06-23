@@ -28,14 +28,15 @@ body {
 .markdown-rendered p,
 .markdown-preview-view p {
   color: #464646 !important;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 .markdown-rendered mark,
 .markdown-preview-view mark {
   background-color: rgba(240, 240, 240, 0.8) !important;
-  font-weight: 400 !important;
+  font-weight: 500 !important;
   padding: 0.1em 0.3em !important;
+ color:#111 !important;
   border-radius: 0 !important;
   box-decoration-break: clone;
   -webkit-box-decoration-break: clone;
@@ -111,64 +112,13 @@ span.math mjx-container,
    WRITING MODE (Live Preview / Source)
    ========================================================= */
 
-.markdown-source-view.mod-cm6 .cm-hmd-internal-link,
-.markdown-source-view.mod-cm6 .cm-hmd-internal-link *,
-.markdown-source-view.mod-cm6 .cm-link,
-.markdown-source-view.mod-cm6 .cm-link *,
-.markdown-source-view.mod-cm6 .cm-url,
-.markdown-source-view.mod-cm6 .cm-url *,
-.markdown-source-view.mod-cm6 .cm-formatting-link,
-.markdown-source-view.mod-cm6 .cm-formatting-link * {
-  color: #006767 !important;
-  font-weight: 700 !important;
-}
-
-/* Body text color */
-.markdown-source-view.mod-cm6 .cm-line {
-  color: #464646 !important;
-  font-weight: 300;
-}
-
-.markdown-source-view.mod-cm6 .cm-highlight,
+   .markdown-source-view.mod-cm6 .cm-highlight,
 .markdown-source-view.mod-cm6 .cm-formatting-highlight {
   background-color: rgba(240, 240, 240, 0.8) !important;
-  font-weight: 400 !important;
+  font-weight: 500 !important;
+  color:#111 !important;
   padding: 0.1em 0.3em !important;
   border-radius: 0 !important;
   box-decoration-break: clone;
   -webkit-box-decoration-break: clone;
-}
-
-/* Compensate gap when bold/italic highlight follows another highlight */
-.markdown-source-view.mod-cm6 .cm-highlight.cm-strong,
-.markdown-source-view.mod-cm6 .cm-highlight.cm-em {
-  margin-left: -0.4em;
-}
-
-.markdown-source-view.mod-cm6 .cm-header-1 {
-  color: #006767 !important;
-  font-family: "playfair display", "serif" !important;
-  font-size: 1.25em !important;
-  font-weight: 700 !important;
-}
-
-.markdown-source-view.mod-cm6 .cm-header-2 {
-  color: #464646 !important;
-  font-family: "playfair display", "serif" !important;
-  font-size: 1.15em !important;
-  font-weight: 700 !important;
-}
-
-.markdown-source-view.mod-cm6 .cm-header-3 {
-  color: #464646 !important;
-  font-family: "playfair display", "serif" !important;
-  font-size: 1.05em !important;
-  font-weight: 600 !important;
-}
-
-.markdown-source-view.mod-cm6 .cm-header-4 {
-  color: #464646 !important;
-  font-family: "playfair display", "serif" !important;
-  font-size: 1em !important;
-  font-weight: 600 !important;
 }

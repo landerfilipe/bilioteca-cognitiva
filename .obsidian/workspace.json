@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dicionário/01. Artigos/Inferência Bayesiana.md",
+                "file": "Dicionário/01. Artigos/Navalha de Occam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Inferência Bayesiana"
+              "title": "Links de saída para Navalha de Occam"
             }
           },
           {
@@ -171,12 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Dicionário/01. Artigos/Navalha de Occam.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de Navalha de Occam"
             }
           },
           {
@@ -210,12 +211,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,11 +230,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ee690b63baf040b2",
+  "active": "9da70c285ad7cfa2",
   "lastOpenFiles": [
+    "Navalha de Occam.pdf",
+    "navalha de Occam bayesiana.md",
+    "Dicionário/01. Artigos/Navalha de Occam.md",
+    "Inferência Bayesiana.md",
+    "subdeterminação.md",
     "Custo de Oportunidade.md",
     "Custo Afundado.md",
-    "Dicionário/01. Artigos/Navalha de Occam.md",
     "Dicionário/01. Artigos/Falso Futuro (Future Faking).md",
     "Navalha de Occam (1).md",
     "Assimetria.md",
@@ -247,7 +251,6 @@
     "Fato, Inferência, Hipótese e Juízo.md",
     "Falsa Equivalência.md",
     "+ DICIONÁRIO (Taxonomia).md",
-    "Inferência Bayesiana.md",
     "Pensamento Adversarial (Red Team Thinking).md",
     "Reforço Intermitente.md",
     "Teoria dos Sinais.md",
@@ -275,9 +278,6 @@
     "Dicionário/00. Arquivos/02. Infográficos/Descrição, Explicação e Recomendação.png",
     "Dicionário/00. Arquivos/03. Apresentações (PPTX & PDF)/Falsa Equivalência.pdf",
     "Sem título.canvas",
-    "2026-06-17.md",
-    "Sem título.base",
-    "ratio/README.md",
-    "Teoria da Sinalização.md"
+    "Sem título.base"
   ]
 }
