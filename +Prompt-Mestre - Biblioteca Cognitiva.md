@@ -41,7 +41,7 @@ resumo:
 ---
 ```
 
-O campo `categoria` recebe uma das doze disciplinas. As `tags` recebem os conceitos-chave do artigo. A `data` vem em formato completo (23 de junho de 2026) `modelo` registra o modelo que gerou o texto (o nome vem Opus 4.8, GPT 5.5 e não Claude Opus 4.8 ou chatGPT 5.5). O campo `resumo` traz **de duas a três linhas** que capturam a ideia central do conceito — a frase mais impactante, direta e explicativa possível, funcionando como cartão de visita ao varrer a biblioteca.
+O campo `categoria` recebe uma das doze disciplinas. As `tags` recebem os conceitos-chave do artigo. O `modelo` registra o modelo que gerou o texto (o nome vem Opus 4.8, GPT 5.5 e não Claude Opus 4.8 ou chatGPT 5.5). O campo `resumo` traz **de duas a três linhas** que capturam a ideia central do conceito — a frase mais impactante, direta e explicativa possível, funcionando como cartão de visita ao varrer a biblioteca.
 
 Em seguida vem o **título** em H1, e logo abaixo o corpo do artigo, dividido em **seis seções fixas, idênticas em todos os arquivos**, na ordem abaixo. Os cabeçalhos são invariáveis; apenas o conteúdo se molda ao tema.
 

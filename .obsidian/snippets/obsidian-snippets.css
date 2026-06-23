@@ -44,13 +44,13 @@ body {
 
 .markdown-rendered h1, .markdown-preview-view h1 {
   color: #006767 !important;
-  font-family: "playfair display", "serif" !important;
+  font-family: "Playfar Display", "serif" !important;
   font-size: 2em !important;
 }
 
 .markdown-rendered h2, .markdown-preview-view h2 {
   color: #464646 !important;
-  font-family: "playfair display", "serif" !important;
+  font-family: "Playfar Display", "serif" !important;
   font-size: 1.6em !important;
   font-weight: 700 !important;
   border-bottom: none !important;
@@ -68,14 +68,14 @@ body {
 
 .markdown-rendered h3, .markdown-preview-view h3 {
   color: #464646 !important;
-  font-family: "playfair display", "serif" !important;
+  font-family: "Playfar Display", "serif" !important;
   font-size: 1.3em !important;
   font-weight: 600 !important;
 }
 
 .markdown-rendered h4, .markdown-preview-view h4 {
   color: #464646 !important;
-  font-family: "playfair display", "serif" !important;
+  font-family: "Playfar Display", "serif" !important;
   font-size: 1.1em !important;
   font-weight: 600 !important;
 }
@@ -84,7 +84,7 @@ body {
 .inline-title {
   color: #006767 !important;
   text-transform: uppercase !important;
-  font-family: "playfair display", "serif" !important;
+  font-family: "Playfar Display", "serif" !important;
   font-size: 2em !important;
 }
 

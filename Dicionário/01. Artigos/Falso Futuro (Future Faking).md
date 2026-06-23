@@ -9,7 +9,7 @@ tags:
   - vieses-cognitivos
   - reforço-intermitente
   - relacionamentos-abusivos
-data: 2026-06-23
+data: 2026-06-23T14:18:00
 modelo: Opus 4.8
 resumo: "O futuro falso explora a assimetria entre o custo de prometer e o custo de cumprir: uma visão vívida de futuro compartilhado é emitida a custo zero para arrancar, no presente, comprometimento real contra uma entrega que jamais foi pretendida. A defesa não está em decifrar a intenção alheia, mas em só precificar sinais caros e verificáveis."
 ---

@@ -9,7 +9,7 @@ tags:
   - inferência-bayesiana
   - falseabilidade
   - sobreajuste
-data: 23 de junho de 2026
+data: 2026-06-22T16:43:00
 modelo: Opus 4.8
 resumo: Entre explicações que dão conta igualmente bem dos mesmos fatos, prefira a que postula menos entidades. Não é um critério de verdade, mas uma regra de aposta — a hipótese mais econômica é o melhor ponto de partida, nunca a sentença final sobre o mundo.
 ---
