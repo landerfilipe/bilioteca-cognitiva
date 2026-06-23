@@ -79,11 +79,14 @@ Em seguida vem o **título** em H1, e logo abaixo o corpo do artigo, dividido em
 
 **Forma.** Prosa discursiva e coesa. **Proibidas as tabelas.** **Negrito** usado com parcimônia: obrigatório nas citações autor-data — *(Kahneman, 2011)* — e reservado para as passagens de maior peso conceitual do artigo; também pode ser usado para introdução de termos (ex: Custo de oportunidade: [explicação]) fora disso, ausente. *Itálico* para ênfase, termos estrangeiros e títulos de obras.O itálico pode ser usado um pouco mais, mas cuidado com o uso abusivo. Sem embeds de imagem ou PDF — o arquivo é texto puro; qualquer diagrama será inserido manualmente pelo autor depois.
 
-## 6. Referências e leitura recomendada
+## 6. leitura recomendada e Referências
+
+Abaixo dela, uma seção **## Leitura recomendada** com **três livros** que aprofundam o tema. O nível de profundidade deve ser **acessível ao leigo inteligente**, no mesmo espírito do artigo: nunca recomende textos formais, técnicos ou acadêmicos. São portas de entrada, não tratados. A leitura recomendada segue a lógica autor-livro, não tem nenhum tipo de explicação ou justificativa de escolha.
 
 O artigo termina com uma seção **## Referências** contendo a lista completa das obras **efetivamente citadas no corpo** — autores e livros que sustentam o texto. Cada entrada traz autor, título em itálico e ano.
 
-Abaixo dela, uma seção **## Leitura recomendada** com **três livros** que aprofundam o tema. O nível de profundidade deve ser **acessível ao leigo inteligente**, no mesmo espírito do artigo: nunca recomende textos formais, técnicos ou acadêmicos. São portas de entrada, não tratados. A leitura recomendada segue a lógica autor-livro, não tem nenhum tipo de explicação ou justificativa de escolha.
+As duas listas devem ser listas numeradas.
+
 
 ## 7. Entrada
 

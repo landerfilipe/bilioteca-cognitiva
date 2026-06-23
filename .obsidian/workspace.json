@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dicionário/01. Artigos/Falso Futuro (Future Faking).md",
+                "file": "Dicionário/01. Artigos/Navalha de Occam.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Falso Futuro (Future Faking)"
+              "title": "Navalha de Occam"
             }
           }
         ],
@@ -232,8 +232,11 @@
   },
   "active": "ee690b63baf040b2",
   "lastOpenFiles": [
+    "Custo de Oportunidade.md",
     "Custo Afundado.md",
+    "Dicionário/01. Artigos/Navalha de Occam.md",
     "Dicionário/01. Artigos/Falso Futuro (Future Faking).md",
+    "Navalha de Occam (1).md",
     "Assimetria.md",
     "erro de atribuição.md",
     "erro fundamental de atribuição.md",
@@ -250,12 +253,10 @@
     "Teoria dos Sinais.md",
     "Dicionário/00. Arquivos/02. Infográficos/Inferência Bayesiana.png",
     "Dicionário/00. Arquivos/03. Apresentações (PPTX & PDF)/Inferência Bayesiana.pdf",
-    "Navalha de Occam.md",
     "Dicionário/00. Arquivos/03. Apresentações (PPTX & PDF)/Navalha de Occam.pdf",
     "Dicionário/00. Arquivos/02. Infográficos/Navalha de Occam.png",
     "Descrição, Explicação e Recomendação.md",
     "DARVO.md",
-    "Custo de Oportunidade.md",
     "Dicionário/00. Arquivos/03. Apresentações (PPTX & PDF)/Pensamento Adversarial.pdf",
     "Dicionário/02. Infográficos/Atualização Bayesiana de Crenças.png",
     "Dicionário/00. Arquivos/02. Infográficos/Pensamento Adversarial.png",
@@ -277,7 +278,6 @@
     "2026-06-17.md",
     "Sem título.base",
     "ratio/README.md",
-    "Teoria da Sinalização.md",
-    "Dicionário/Artigos/Sem título.md"
+    "Teoria da Sinalização.md"
   ]
 }

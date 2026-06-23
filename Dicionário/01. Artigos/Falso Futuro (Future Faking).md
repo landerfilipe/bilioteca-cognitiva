@@ -91,29 +91,29 @@ O quinto movimento, talvez o mais difícil, é *separar a simulação da fonte*.
 Por fim, registre que o mecanismo transcende em muito o romance, embora seja lá que a divulgação o concentre. O *roadmap* eterno que segura o cliente sem nunca entregar a funcionalidade; a promoção "no próximo ciclo" que adia indefinidamente o aumento enquanto retém o talento; a promessa de campanha calibrada para a abstração máxima; a contraproposta de retenção feita só para ganhar tempo numa negociação — todos são **futuro falso** operando sobre a mesma [[assimetria]] entre prometer e cumprir. A defesa é invariante em todos os domínios: **não compre fala barata; exija sinal caro.** Veja também [[Reforço Intermitente]], [[Sinalização Custosa]], [[Custo irrecuperáve]], [[Dissonância Cognitiva]] e [[Cheap Talk]].
 
 ---
-## Referências
-
-- Arkes, H. R., e Blumer, C. *The Psychology of Sunk Cost* (Organizational Behavior and Human Decision Processes), 1985.
-- Campbell, W. K., e Foster, J. D. *The Narcissistic Self: Background, an Extended Agency Model, and Ongoing Controversies*, 2007.
-- Crawford, V. P., e Sobel, J. *Strategic Information Transmission* (Econometrica), 1982.
-- DePaulo, B. M., et al. *Lying in Everyday Life* (Journal of Personality and Social Psychology), 1996.
-- Dutton, D. G., e Painter, S. L. *Traumatic Bonding: The Development of Emotional Attachments in Battered Women and Other Relationships of Intermittent Abuse* (Victimology), 1981.
-- Dutton, D. G., e Painter, S. L. *Emotional Attachments in Abusive Relationships: A Test of Traumatic Bonding Theory* (Violence and Victims), 1993.
-- Ferster, C. B., e Skinner, B. F. *Schedules of Reinforcement*, 1957.
-- Festinger, L. *A Theory of Cognitive Dissonance*, 1957.
-- Gilbert, D. *Stumbling on Happiness*, 2006.
-- Grapsas, S., Brummelman, E., Back, M. D., e Denissen, J. J. A. *The "Why" and "How" of Narcissism: A Process Model of Narcissistic Status Pursuit* (Perspectives on Psychological Science), 2020.
-- Paulhus, D. L., e Williams, K. M. *The Dark Triad of Personality: Narcissism, Machiavellianism, and Psychopathy* (Journal of Research in Personality), 2002.
-- Spence, M. *Job Market Signaling* (The Quarterly Journal of Economics), 1973.
-- Trope, Y., e Liberman, N. *Construal-Level Theory of Psychological Distance* (Psychological Review), 2010.
-- Wilson, T. D., e Gilbert, D. T. *Affective Forecasting: Knowing What to Want* (Current Directions in Psychological Science), 2005.
-- Zahavi, A. *Mate Selection—A Selection for a Handicap* (Journal of Theoretical Biology), 1975.
-
 ## Leitura recomendada
 
-- Daniel Gilbert, *O Que Nos Faz Felizes* (*Stumbling on Happiness*) 
-- Robert Cialdini, *As Armas da Persuasão*
-- Dan Ariely, *A Mais Pura Verdade Sobre a Desonestidade* 
+1. Daniel Gilbert, *O Que Nos Faz Felizes* (*Stumbling on Happiness*) 
+2. Robert Cialdini, *As Armas da Persuasão*
+3. Dan Ariely, *A Mais Pura Verdade Sobre a Desonestidade* 
+## Referências
+
+1. Arkes, H. R., e Blumer, C. *The Psychology of Sunk Cost* (Organizational Behavior and Human Decision Processes), 1985.
+2. Campbell, W. K., e Foster, J. D. *The Narcissistic Self: Background, an Extended Agency Model, and Ongoing Controversies*, 2007.
+3. Crawford, V. P., e Sobel, J. *Strategic Information Transmission* (Econometrica), 1982.
+4. DePaulo, B. M., et al. *Lying in Everyday Life* (Journal of Personality and Social Psychology), 1996.
+5. Dutton, D. G., e Painter, S. L. *Traumatic Bonding: The Development of Emotional Attachments in Battered Women and Other Relationships of Intermittent Abuse* (Victimology), 1981.
+6. Dutton, D. G., e Painter, S. L. *Emotional Attachments in Abusive Relationships: A Test of Traumatic Bonding Theory* (Violence and Victims), 1993.
+7. Ferster, C. B., e Skinner, B. F. *Schedules of Reinforcement*, 1957.
+8. Festinger, L. *A Theory of Cognitive Dissonance*, 1957.
+9. Gilbert, D. *Stumbling on Happiness*, 2006.
+10. Grapsas, S., Brummelman, E., Back, M. D., e Denissen, J. J. A. *The "Why" and "How" of Narcissism: A Process Model of Narcissistic Status Pursuit* (Perspectives on Psychological Science), 2020.
+11. Paulhus, D. L., e Williams, K. M. *The Dark Triad of Personality: Narcissism, Machiavellianism, and Psychopathy* (Journal of Research in Personality), 2002.
+12. Spence, M. *Job Market Signaling* (The Quarterly Journal of Economics), 1973.
+13. Trope, Y., e Liberman, N. *Construal-Level Theory of Psychological Distance* (Psychological Review), 2010.
+14. Wilson, T. D., e Gilbert, D. T. *Affective Forecasting: Knowing What to Want* (Current Directions in Psychological Science), 2005.
+15. Zahavi, A. *Mate Selection—A Selection for a Handicap* (Journal of Theoretical Biology), 1975.
+
 
 [^1]: Um sinal barato (_cheap signal_) é uma mensagem ou demonstração que pode ser emitida com pouco ou nenhum custo, tornando fácil sua imitação por quem não possui a característica alegada. Por isso, sua credibilidade tende a ser limitada. Já um sinal caro (_costly signal_) exige custos relevantes de tempo, esforço, recursos ou reputação, dificultando a falsificação. Como indivíduos de baixa qualidade ou comprometimento têm mais dificuldade em sustentá-lo, ele transmite informação mais confiável. Em resumo: quanto mais difícil e custoso for imitar um sinal, maior tende a ser seu valor informacional.
 [^2]: A economia da informação é o ramo da economia que estuda como decisões e mercados são afetados pelo fato de que a informação é incompleta, imperfeita ou distribuída de forma desigual entre os agentes. Seu problema central é a assimetria de informação: situações em que uma das partes sabe mais do que a outra. Dessa condição surgem fenômenos como seleção adversa (problemas antes da transação), risco moral (problemas depois da transação) e sinalização (mecanismos para transmitir informação confiável). O campo foi desenvolvido por economistas como George Akerlof, Michael Spence e Joseph Stiglitz, que receberam o Prêmio Nobel de Economia de 2001 por contribuições fundamentais à área.

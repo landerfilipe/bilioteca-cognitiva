@@ -4,7 +4,7 @@
   "enabledCssSnippets": [
     "obsidian-snippets"
   ],
-  "textFontFamily": "Crimson Pro",
+  "textFontFamily": "Outfit,Crimson Pro",
   "baseFontSize": 18,
   "interfaceFontFamily": "Outfit"
 }
