@@ -45,7 +45,7 @@ O quarto papel, o mais escorregadio, é a própria noção de **simplicidade**. 
 
 ## A mecânica
 
-Por que, afinal, preferir o mais simples *deveria* funcionar? A resposta intuitiva — "porque é mais elegante" — é estética e não convence ninguém. A resposta forte é que a navalha **cai automaticamente de dentro da [[inferência bayesiana]]**, sem precisar ser postulada à parte. Ela não é um princípio extra colado por fora do método; é uma consequência da aritmética da probabilidade. Esse resultado é conhecido como a [[navalha de Occam bayesiana]] **(Jefferys e Berger, 1992; MacKay, 2003)**.
+Por que, afinal, preferir o mais simples *deveria* funcionar? A resposta intuitiva — "porque é mais elegante" — é estética e não convence ninguém. A resposta forte é que a navalha **cai automaticamente de dentro da [[Inferência Bayesiana]]**, sem precisar ser postulada à parte. Ela não é um princípio extra colado por fora do método; é uma consequência da aritmética da probabilidade. Esse resultado é conhecido como a [[navalha de Occam bayesiana]] **(Jefferys e Berger, 1992; MacKay, 2003)**.
 
 O raciocínio gira em torno de uma quantidade chamada **evidência do modelo** (*model evidence*) ou **verossimilhança marginal**:
 

@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Descrição, Explicação e Recomendação.md",
+                "file": "raciocínio por analogia.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Descrição, Explicação e Recomendação"
-            }
-          },
-          {
-            "id": "eb17f1e66cf2dcc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dicionário/01. Artigos/Navalha de Occam.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Navalha de Occam"
+              "title": "raciocínio por analogia"
             }
           }
         ]
@@ -92,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 325.5
   },
   "right": {
     "id": "ced97a2e93c1c048",
@@ -127,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Descrição, Explicação e Recomendação.md",
+                "file": "raciocínio por analogia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Descrição, Explicação e Recomendação"
+              "title": "Links de saída para raciocínio por analogia"
             }
           },
           {
@@ -170,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Descrição, Explicação e Recomendação.md",
+                "file": "raciocínio por analogia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Descrição, Explicação e Recomendação"
+              "title": "Sumário de raciocínio por analogia"
             }
           },
           {
@@ -229,17 +215,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f349a8d1cf8c374d",
+  "active": "fd2caf00f8b389cf",
   "lastOpenFiles": [
+    "Dicionário/01. Artigos/Navalha de Occam.md",
+    "raciocínio por analogia.md",
+    "subdeterminação.md",
+    "Dicionário/01. Artigos/Reforço Intermitente.md",
+    "Dicionário/01. Artigos/Pensamento Adversarial (Red Team Thinking).md",
+    "erro fundamental de atribuição.md",
+    "Dicionário/01. Artigos/Inferência Bayesiana.md",
+    "Dicionário/01. Artigos/Incerteza Residual.md",
+    "Dicionário/01. Artigos/Hipótese da Rainha Vermelha.md",
+    "Dicionário/01. Artigos/Falsa Equivalência.md",
+    "erro de atribuição.md",
+    "dúvida metódica.md",
     "Custo Irrecuperável.md",
+    "Dicionário/01. Artigos/Descrição, Explicação e Recomendação.md",
     "Dicionário/01. Artigos/Custo de Oportunidade.md",
     "Dicionário/01. Artigos/Assimetria.md",
     "Dicionário/01. Artigos/DARVO.md",
     "Dicionário/01. Artigos/Lógica dos Primeiros Princípios.md",
-    "dúvida metódica.md",
-    "raciocínio por analogia.md",
     "Lógica dos Primeiros Princípios (1).md",
-    "Dicionário/01. Artigos/Navalha de Occam.md",
     "+ DICIONÁRIO (Taxonomia).md",
     "Dicionário/01. Artigos/Fato, Inferência, Hipótese e Juízo.md",
     "Dicionário/01. Artigos/Teoria dos Sinais.md",
@@ -251,17 +247,7 @@
     "+Prompt-Mestre - Biblioteca Cognitiva.md.tmp.23716.c2590ec5851f",
     "+Prompt-Mestre - Biblioteca Cognitiva.md.tmp.23716.713ad906a36b",
     "Teoria dos Sinais (1).md",
-    "Pensamento Adversarial (Red Team Thinking).md",
-    "navalha de Occam bayesiana.md",
-    "Data inválida.md",
     "Navalha de Occam.pdf",
-    "Inferência Bayesiana.md",
-    "subdeterminação.md",
-    "Navalha de Occam (1).md",
-    "erro de atribuição.md",
-    "erro fundamental de atribuição.md",
-    "Falso Futuro (Future Faking) (1).md",
-    "Incerteza Residual.md",
     "Dicionário/00. Arquivos/02. Infográficos/Inferência Bayesiana.png",
     "Dicionário/00. Arquivos/03. Apresentações (PPTX & PDF)/Inferência Bayesiana.pdf",
     "Dicionário/00. Arquivos/03. Apresentações (PPTX & PDF)/Navalha de Occam.pdf",
