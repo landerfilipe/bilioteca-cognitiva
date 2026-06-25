@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lógica dos Primeiros Princípios.md",
+                "file": "Descrição, Explicação e Recomendação.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lógica dos Primeiros Princípios"
+              "title": "Descrição, Explicação e Recomendação"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dicionário/01. Artigos/Navalha de Occam.md",
+                "file": "Descrição, Explicação e Recomendação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Navalha de Occam"
+              "title": "Links de saída para Descrição, Explicação e Recomendação"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lógica dos Primeiros Princípios.md",
+                "file": "Descrição, Explicação e Recomendação.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Lógica dos Primeiros Princípios"
+              "title": "Sumário de Descrição, Explicação e Recomendação"
             }
           },
           {
@@ -210,7 +210,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -229,16 +229,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd2caf00f8b389cf",
+  "active": "f349a8d1cf8c374d",
   "lastOpenFiles": [
+    "Custo Irrecuperável.md",
+    "Dicionário/01. Artigos/Custo de Oportunidade.md",
+    "Dicionário/01. Artigos/Assimetria.md",
+    "Dicionário/01. Artigos/DARVO.md",
+    "Dicionário/01. Artigos/Lógica dos Primeiros Princípios.md",
+    "dúvida metódica.md",
     "raciocínio por analogia.md",
-    "Lógica dos Primeiros Princípios.md",
     "Lógica dos Primeiros Princípios (1).md",
     "Dicionário/01. Artigos/Navalha de Occam.md",
     "+ DICIONÁRIO (Taxonomia).md",
     "Dicionário/01. Artigos/Fato, Inferência, Hipótese e Juízo.md",
     "Dicionário/01. Artigos/Teoria dos Sinais.md",
-    "DARVO.md",
     "+Prompt-Mestre - Biblioteca Cognitiva.md.tmp.22436.77f8767a49bf",
     "+Prompt-Mestre - Biblioteca Cognitiva.md.tmp.22436.5104a892599d",
     "Fato, Inferência, Hipótese e Juízo (1).md",
@@ -253,15 +257,11 @@
     "Navalha de Occam.pdf",
     "Inferência Bayesiana.md",
     "subdeterminação.md",
-    "Custo de Oportunidade.md",
-    "Custo Afundado.md",
     "Navalha de Occam (1).md",
-    "Assimetria.md",
     "erro de atribuição.md",
     "erro fundamental de atribuição.md",
     "Falso Futuro (Future Faking) (1).md",
     "Incerteza Residual.md",
-    "Hipótese da Rainha Vermelha.md",
     "Dicionário/00. Arquivos/02. Infográficos/Inferência Bayesiana.png",
     "Dicionário/00. Arquivos/03. Apresentações (PPTX & PDF)/Inferência Bayesiana.pdf",
     "Dicionário/00. Arquivos/03. Apresentações (PPTX & PDF)/Navalha de Occam.pdf",

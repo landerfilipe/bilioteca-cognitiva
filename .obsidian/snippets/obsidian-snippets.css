@@ -31,6 +31,12 @@ body {
   font-weight: 400;
 }
 
+/* Bold */
+.markdown-rendered strong,
+.markdown-preview-view strong {
+  font-weight: 600 !important;
+}
+
 .markdown-rendered mark,
 .markdown-preview-view mark {
   background-color: rgba(240, 240, 240, 0.8) !important;
@@ -104,6 +110,7 @@ body {
   padding: 0.5em !important;
   border-radius: 0 !important;
   font-size: 1.2em !important;
+  background: linear-gradient(to right, rgb(250, 250, 250), rgb(255, 255, 255)) !important;
 }
 
 /* Thin rule — HR */
@@ -141,3 +148,9 @@ span.math mjx-container,
   -webkit-box-decoration-break: clone;
 }
 
+/* Fundo da área do artigo */
+/*.markdown-preview-view,
+.markdown-source-view.mod-cm6 .cm-scroller {
+  background-color: rgb(250, 250, 250) !important;
+}
+*/

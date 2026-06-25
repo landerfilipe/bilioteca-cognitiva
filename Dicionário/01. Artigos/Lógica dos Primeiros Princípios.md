@@ -37,15 +37,15 @@ O mecanismo tem dois movimentos, em sentidos opostos. Primeiro um movimento **de
 
 A decomposição avança por uma única pergunta, repetida a cada nível: *isto é verdade por causa de algo mais básico, ou é simplesmente verdade?* Enquanto a resposta for "por causa de algo mais básico", desce-se mais um degrau. Quando a resposta for "é simplesmente verdade — e não vejo o que o sustentaria por baixo", chegou-se a um candidato a primeiro princípio. O movimento ascendente é então o inverso: tomam-se os irredutíveis isolados e deduz-se, deles, a conclusão — sem recorrer, em nenhum momento, a um precedente, a uma autoridade ou a um "todo mundo sabe".
 
-A assimetria entre os dois movimentos é o ponto crucial do método. A reconstrução é trabalho mecânico: dadas as premissas certas, a [[dedução]] que sobe é quase automática e qualquer um a verifica. ==Toda a qualidade do resultado é fixada na decomposição: uma base errada produz, por dedução impecável, uma conclusão errada com aparência de prova.== O esforço criativo e o risco moram inteiramente na escolha do que é, de fato, irredutível — não no ato de deduzir a partir dele.
+A [[Assimetria]] entre os dois movimentos é o ponto crucial do método. A reconstrução é trabalho mecânico: dadas as premissas certas, a [[dedução]] que sobe é quase automática e qualquer um a verifica. ==Toda a qualidade do resultado é fixada na decomposição: uma base errada produz, por dedução impecável, uma conclusão errada com aparência de prova.== O esforço criativo e o risco moram inteiramente na escolha do que é, de fato, irredutível — não no ato de deduzir a partir dele.
 
 ## Distinções
 
 Quatro vizinhos costumam ser confundidos com a lógica dos primeiros princípios, e separá-los esclarece o que o método é.
 
-O primeiro vizinho é o [[raciocínio por analogia]]. A analogia raciocina **de lado** — vai do semelhante ao semelhante, transportando uma conclusão de um caso conhecido para um caso parecido. Os primeiros princípios raciocinam **para cima** — partem de uma base e deduzem. Onde a analogia pergunta "com o que isto se parece?", os primeiros princípios perguntam "do que isto necessariamente decorre?".
+O primeiro vizinho é o [[raciocínio por analogia]]. A **analogia**[^1] raciocina **de lado** — vai do semelhante ao semelhante, transportando uma conclusão de um caso conhecido para um caso parecido. Os primeiros princípios raciocinam **para cima** — partem de uma base e deduzem. Onde a analogia pergunta "com o que isto se parece?", os primeiros princípios perguntam "do que isto necessariamente decorre?".
 
-O segundo é o [[reducionismo]]. Reduzir é explicar um todo por suas partes — uma tese sobre o que as coisas *são*. Raciocinar por primeiros princípios é uma tese sobre como as crenças *se justificam*, e inclui um passo que o reducionismo não tem: a reconstrução. Decompor sem reerguer é redução; o método completo exige a volta para cima.
+O segundo é o [[reducionismo]]. *Reduzir é explicar um todo por suas partes* — uma tese sobre o que as coisas *são*. Raciocinar por primeiros princípios é uma tese sobre como as crenças *se justificam*, e inclui um passo que o reducionismo não tem: a reconstrução. Decompor sem reerguer é redução; o método completo exige a volta para cima.
 
 O terceiro é a própria [[dedução]]. Toda reconstrução por primeiros princípios é dedutiva, mas nem toda dedução parte de primeiros princípios — uma dedução pode partir de quaisquer premissas, inclusive de premissas emprestadas e não examinadas. O que os primeiros princípios acrescentam à dedução é uma **restrição sobre a origem das premissas**: só vale o que sobreviveu à decomposição.
 
@@ -55,7 +55,7 @@ O quarto é o [[axioma]]. No [[método axiomático]] de um sistema formal, o axi
 
 A noção é de **(Aristóteles, ca. 350 a.C.)**, nos *Segundos Analíticos*, sob o nome de *archē* — princípio. Aristóteles define o primeiro princípio como aquilo que é verdadeiro, primário, imediato, mais conhecido que a conclusão e anterior a ela, e que **não se demonstra**: justamente por ser primeiro, não há de onde derivá-lo. A geometria de **(Euclides, ca. 300 a.C.)** tornou-se o exemplar histórico da aplicação: nos *Elementos*, todo o edifício da geometria desce de um punhado de postulados e noções comuns, e nada além disso é admitido sem prova.
 
-A versão moderna e mais radical é de **(Descartes, 1641)**. Pela [[dúvida metódica]], Descartes suspende toda crença que possa ser posta em dúvida, à procura de uma única proposição indubitável sobre a qual reconstruir o conhecimento inteiro — o [[cogito]]. É a forma pura do programa: demolir até o alicerce indubitável e reerguer só a partir dele. Esse programa tem nome na epistemologia — **[[fundacionismo]]** —, a tese de que o conhecimento justificado tem estrutura de pirâmide, repousando sobre crenças básicas que se sustentam sozinhas.
+A versão moderna e mais radical é de **(Descartes, 1641)**. Pela [[dúvida metódica]], Descartes suspende toda crença que possa ser posta em dúvida, à procura de uma única proposição indubitável sobre a qual reconstruir o conhecimento inteiro — o [[cogito]]. É a forma pura do programa: demolir até o alicerce indubitável e reerguer só a partir dele. Esse programa tem nome na epistemologia — **[[fundacionismo]]** —, a tese de que o *conhecimento justificado tem estrutura de pirâmide, repousando sobre crenças básicas que se sustentam sozinhas.*
 
 ## Os limites
 
@@ -67,7 +67,7 @@ O nome "primeiro princípio" descreve, então, o lugar onde a cadeia foi **corta
 
 Há um segundo limite, mais prático: a **dureza da base varia com o domínio**. Na física, os irredutíveis são genuinamente firmes — a conservação da energia não é negociável. Na economia e nas ciências sociais, os supostos "primeiros princípios" — preferências, instituições, incentivos — são contingentes e historicamente moldados, e o método importa para esses domínios uma aparência de rigor que a base não sustenta. Aplicar a confiança da física a uma base social é o erro típico.
 
-O terceiro limite é o **custo**. Reconstruir tudo do zero é caro em tempo e atenção; a analogia existe porque é eficiente, e na maioria das decisões ela basta. Usar primeiros princípios onde a analogia serviria é desperdício. O quarto e mais traiçoeiro limite é a **ilusão de fundo firme**: o que parece irredutível costuma ser apenas uma convenção não examinada. ==O perigo do método não é falhar visivelmente, mas conferir a uma conclusão derivada de um falso alicerce uma convicção que ela não merece.==
+O terceiro limite é o **custo**. Reconstruir tudo do zero é caro em tempo e atenção; a analogia existe porque é eficiente, e na maioria das decisões ela basta. Usar primeiros princípios onde a analogia serviria é desperdício. O quarto e mais traiçoeiro limite é a [[ilusão de fundo firme]]: o que parece irredutível costuma ser apenas uma convenção não examinada. ==O perigo do método não é falhar visivelmente, mas conferir a uma conclusão derivada de um falso alicerce uma convicção que ela não merece.==
 
 ## Na prática
 
@@ -89,3 +89,5 @@ Para quem analisa sistemas e estratégias, esse é precisamente o seu uso. A mai
 2. Euclides. *Elementos*. ca. 300 a.C.
 3. Descartes, René. *Meditações sobre a Filosofia Primeira*. 1641.
 4. Albert, Hans. *Tratado da Razão Crítica*. 1968.
+
+[^1]: **Analogia** é um tipo de raciocínio que identifica semelhanças relevantes entre dois casos distintos para transferir conhecimento de um para o outro. Ela não prova conclusões com certeza, mas sugere hipóteses, explicações ou previsões plausíveis. Seu valor depende da relevância e da profundidade das semelhanças envolvidas.
