@@ -1,6 +1,6 @@
 1. [[Fato, Inferência, Hipótese e Juízo]]
 2. [[Descrição, Explicação e Recomendação]]
-3. Lógica dos Primeiros Princípios
+3. [[Lógica dos Primeiros Princípios]]
 4. [[Incerteza Residual]]
 5. Princípio da Humildade Epistêmica
 6. Ceticismo Pirrônico
