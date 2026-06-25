@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Erro Fundamental de Atribuição"
             }
+          },
+          {
+            "id": "4e978437904719f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dicionário/01. Artigos/Inferência Bayesiana.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inferência Bayesiana"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Erro Fundamental de Atribuição.md",
+                "file": "Dicionário/01. Artigos/Inferência Bayesiana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Erro Fundamental de Atribuição"
+              "title": "Links de saída para Inferência Bayesiana"
             }
           },
           {
@@ -156,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Erro Fundamental de Atribuição.md",
+                "file": "Dicionário/01. Artigos/Inferência Bayesiana.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Erro Fundamental de Atribuição"
+              "title": "Sumário de Inferência Bayesiana"
             }
           },
           {
@@ -200,7 +215,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 315.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,15 +231,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd2caf00f8b389cf",
+  "active": "4e978437904719f6",
   "lastOpenFiles": [
+    "Erro Fundamental de Atribuição.md",
     "Erro de Atribuição.md",
     "raciocínio por analogia.md",
     "Dicionário/01. Artigos/Navalha de Occam.md",
     "subdeterminação.md",
     "Dicionário/01. Artigos/Reforço Intermitente.md",
     "Dicionário/01. Artigos/Pensamento Adversarial (Red Team Thinking).md",
-    "Erro Fundamental de Atribuição.md",
     "Dicionário/01. Artigos/Inferência Bayesiana.md",
     "Dicionário/01. Artigos/Incerteza Residual.md",
     "Dicionário/01. Artigos/Hipótese da Rainha Vermelha.md",

@@ -1,6 +1,6 @@
 {
-  "commitMessage": "Obsidian: {{date}}",
-  "autoCommitMessage": "vault backup: {{date}}",
+  "commitMessage": "obsidian: {{date}}",
+  "autoCommitMessage": "obsidian [auto]: {{date}}",
   "commitMessageScript": "",
   "commitDateFormat": "DD-MM-YYYY • HH:mm",
   "autoSaveInterval": 20,
