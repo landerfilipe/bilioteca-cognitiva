@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 321.5
   },
   "right": {
     "id": "ced97a2e93c1c048",
@@ -215,7 +215,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd2caf00f8b389cf",
+  "active": "f349a8d1cf8c374d",
   "lastOpenFiles": [
     "Dicionário/01. Artigos/Navalha de Occam.md",
     "raciocínio por analogia.md",
