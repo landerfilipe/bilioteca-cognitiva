@@ -137,6 +137,8 @@ span.math mjx-container,
    WRITING MODE (Live Preview / Source)
    ========================================================= */
 
+
+
 .markdown-source-view.mod-cm6 .cm-highlight,
 .markdown-source-view.mod-cm6 .cm-formatting-highlight {
   background-color: rgba(240, 240, 240, 0.8) !important;
@@ -149,10 +151,10 @@ span.math mjx-container,
 }
 
 /* Fundo da área do artigo */
-.markdown-preview-view,
+/*.markdown-preview-view,
 .markdown-source-view.mod-cm6 .cm-scroller {
-  background-color: rgb(240, 240, 240) !important;
-}
+  background-color: rgb(250, 250, 250) !important;
+}*/
 
 /* =========================================================
    INTERFACE COLORS (identificação visual das áreas)
@@ -160,30 +162,30 @@ span.math mjx-container,
 
 /* Ribbon (faixa de ícones à esquerda) — PINK */
 .workspace-ribbon.mod-left {
-  background-color: pink !important;
+  background-color: 
 }
 
 /* Sidebar esquerda (explorador de arquivos) — VERDE */
 .workspace-split.mod-left-split .workspace-leaf-content,
 .nav-files-container,
 .nav-folder-children {
-  background-color: green !important;
+  background-color: pink !important;
 }
 
 /* Barra de abas (tabs) — VERMELHO */
 .workspace-tab-header-container {
-  background-color: red !important;
+  background-color: rgb(250, 250, 250) !important;
 }
 
 /* Cabeçalho da nota (setas de nav + breadcrumb) — AMARELO */
 .view-header {
-  background-color: yellow !important;
+  background-color: rgb(252, 252, 252) !important;
 }
 
 /* Área do artigo (conteúdo principal) — AZUL */
 .markdown-preview-view,
 .markdown-source-view.mod-cm6 .cm-scroller {
-  background-color: blue !important;
+  background-color: cyan !important;
 }
 
 /* Áreas cinzas restantes — LARANJA */
@@ -193,7 +195,7 @@ span.math mjx-container,
 .workspace-split.mod-root,
 .workspace-leaf,
 .workspace-tab-container {
-  background-color: orange !important;
+  background-color: rgb(252, 252, 252) !important;
 }
 
 /* Barra inferior do vault (nome + ícones) — ROXO */
@@ -201,7 +203,7 @@ span.math mjx-container,
 .workspace-sidedock-vault-profile,
 .workspace-drawer,
 .workspace-drawer-inner {
-  background-color: purple !important;
+  background-color: rgb(250, 250, 250) !important;
 }
 
 /* Áreas cinzas remanescentes — CIANO */
@@ -215,4 +217,3 @@ span.math mjx-container,
 .mod-top-right-space {
   background-color: transparent !important;
 }
-
