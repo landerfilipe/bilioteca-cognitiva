@@ -6,5 +6,6 @@
   ],
   "textFontFamily": "Figtree,Montserrat,Outfit,Crimson Pro",
   "baseFontSize": 18,
-  "interfaceFontFamily": "Outfit"
+  "interfaceFontFamily": "Outfit",
+  "theme": "system"
 }

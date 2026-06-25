@@ -39,7 +39,7 @@ body {
 
 .markdown-rendered mark,
 .markdown-preview-view mark {
-  background-color: rgba(236, 236, 236, 0.8) !important;
+  background-color: rgba(230, 230, 230, 0.8) !important;
   font-weight: 500 !important;
   padding: 0.1em 0.3em !important;
   color:#111 !important;
@@ -110,7 +110,7 @@ body {
   padding: 0.5em !important;
   border-radius: 0 !important;
   font-size: 1.2em !important;
-  background: linear-gradient(to right, rgb(245, 245, 245), rgb(250, 250, 250)) !important;
+  background: linear-gradient(to right, rgb(244, 244, 244), rgb(248, 248, 248)) !important;
 }
 
 /* Thin rule — HR */
@@ -138,10 +138,9 @@ span.math mjx-container,
    ========================================================= */
 
 
-
 .markdown-source-view.mod-cm6 .cm-highlight,
 .markdown-source-view.mod-cm6 .cm-formatting-highlight {
-  background-color: rgba(236, 236, 236, 0.8) !important;
+  background-color: rgba(230, 230, 230, 0.8) !important;
   font-weight: 500 !important;
   color:#111 !important;
   padding: 0.1em 0.3em !important;
@@ -151,31 +150,9 @@ span.math mjx-container,
 }
 
 /* Fundo da área do artigo */
-/*.markdown-preview-view,
+.markdown-preview-view,
 .markdown-source-view.mod-cm6 .cm-scroller {
-  background-color: rgb(250, 250, 250) !important;
-}*/
-
-/* =========================================================
-   INTERFACE COLORS (identificação visual das áreas)
-   ========================================================= */
-
-/* Ribbon (faixa de ícones à esquerda) — PINK */
-.workspace-ribbon.mod-left,
-.workspace-ribbon.mod-left.is-collapsed {
-  background-color: rgb(252, 252, 252)  !important;
-}
-
-/* Sidebar esquerda (explorador de arquivos) — VERDE */
-.workspace-split.mod-left-split .workspace-leaf-content,
-.nav-files-container,
-.nav-folder-children {
-  background-color:rgb(250, 250, 250) !important;
-}
-
-/* Barra de abas (tabs) — VERMELHO */
-.workspace-tab-header-container {
-  background-color: rgb(252, 252, 252) !important;
+  background-color: rgb(248, 248, 248) !important;
 }
 
 /* Cabeçalho da nota (setas de nav + breadcrumb) — AMARELO */
@@ -183,38 +160,5 @@ span.math mjx-container,
   background-color: rgb(252, 252, 252) !important;
 }
 
-/* Área do artigo (conteúdo principal) — AZUL */
-.markdown-preview-view,
-.markdown-source-view.mod-cm6 .cm-scroller {
-  background-color: rgb(250, 250, 250) !important;
-}
+/* ========================================================= */
 
-/* Áreas cinzas restantes — LARANJA */
-.workspace-tabs,
-.workspace-tab-header-inner,
-.mod-top-right-space,
-.workspace-split.mod-root,
-.workspace-leaf,
-.workspace-tab-container {
-  background-color: transparent !important;
-}
-
-/* Barra inferior do vault (nome + ícones) — ROXO */
-.status-bar,
-.workspace-sidedock-vault-profile,
-.workspace-drawer,
-.workspace-drawer-inner {
-  background-color: rgb(252, 252, 252) !important;
-}
-
-/* Áreas cinzas remanescentes — CIANO */
-.titlebar,
-.titlebar-button-container,
-.titlebar-text,
-.workspace-tab-header-tab-list,
-.workspace-tab-header-new-tab,
-.workspace-tab-header-status-container,
-.mod-top-left-space,
-.mod-top-right-space {
-  background-color: transparent !important;
-}
