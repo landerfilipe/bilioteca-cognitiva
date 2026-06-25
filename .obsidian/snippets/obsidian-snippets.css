@@ -160,5 +160,16 @@ span.math mjx-container,
   background-color: rgb(252, 252, 252) !important;
 }
 
+/* Áreas cinzas restantes — LARANJA */
+.workspace-tabs,
+.workspace-tab-header-inner,
+.mod-top-right-space,
+.workspace-split.mod-root,
+.workspace-leaf,
+.workspace-tab-container {
+  background-color: transparent !important;
+}
+
 /* ========================================================= */
+
 
