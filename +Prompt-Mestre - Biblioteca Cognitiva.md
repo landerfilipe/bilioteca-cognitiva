@@ -117,7 +117,9 @@ Princípio regente: **qualquer narrativa romântica, fantástica, ou que crie il
 
 **Terminologia.** Sempre em **português do Brasil**. Termo em inglês apenas quando não houver tradução direta consolidada, e nesse caso com o original entre parênteses na primeira ocorrência (ex.: verossimilhança (*likelihood*)).
 
-**Wikilinks.** Todo termo técnico, princípio, viés, heurística, assimetria, teoria, problema, paradoxo, estudo nomeado, lei ou efeito que apareça no texto **deve** ser escrito como `[[wikilink]]` — inclusive os que ainda não têm artigo próprio. Exemplos: `[[custo irrecuperável]]`, `[[lei de Goodhart]]`, `[[viés de confirmação]]`. É assim que o grafo da biblioteca cresce com intenção. Não semeie links em artigos definidos ou preposições; aplique apenas ao nome do conceito em si.
+**Notas de rodapé.** Palavras únicas — raras, técnicas ou de uso específico — que o leigo pode não conhecer recebem nota de rodapé. São palavras, não conceitos: "carestia", "verossimilhança", "prior", "heurística" como palavra (não como conceito nomeado). No corpo, a palavra aparece em **negrito** seguida da marca `[^n]`; a explicação vai **após a seção Referências**, no formato `[^n]: **Palavra:** definição concisa`. Essas notas alimentam o **dicionário** da biblioteca — um verbete curto, não um artigo. Exemplo no corpo: `o **prior**[^1] determina…`; exemplo da nota: `[^1]: **Prior:** crença inicial sobre uma hipótese, antes de qualquer nova evidência.`
+
+**Wikilinks.** Vieses, heurísticas, efeitos, princípios, teorias, paradoxos, leis e termos compostos nomeados recebem `[[wikilink]]` — inclusive os que ainda não têm artigo próprio. São conceitos que merecem (ou já têm) um **artigo próprio** na biblioteca. Exemplos: `[[viés de confirmação]]`, `[[lei de Goodhart]]`, `[[custo irrecuperável]]`. Não aplique em artigos definidos, preposições ou palavras soltas — apenas no nome completo do conceito. A diferença em relação à nota de rodapé é de escopo: a nota define uma palavra; o wikilink aponta para um artigo.
 
 **Forma.** Prosa discursiva e coesa. **Proibidas as tabelas.** Sem embeds de imagem ou PDF — o arquivo é texto puro; qualquer diagrama será inserido manualmente pelo autor depois.
 
@@ -137,6 +139,8 @@ Ao fim do corpo, uma seção **## Leitura recomendada** com **três livros** que
 O artigo termina com uma seção **## Referências** contendo a lista completa das obras **efetivamente citadas no corpo** — autores e livros que sustentam o texto.
 
 As duas listas devem ser **listas numeradas** e seguir o mesmo formato: `Autor, *Título*. Ano` — vírgula após o autor, título em itálico, ponto, ano ao fim. Ex.: `Michael Spence, *Job Market Signaling*. 1973`.
+
+As **notas de rodapé**, quando existirem, aparecem ao final do arquivo, após a seção Referências, no formato `[^n]: **Termo:** definição`.
 
 
 ## 7. Entrada
