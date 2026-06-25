@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dicionário/01. Artigos/Inferência Bayesiana.md",
+                "file": "Dicionário/01. Artigos/Lógica dos Primeiros Princípios.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inferência Bayesiana"
+              "title": "Lógica dos Primeiros Princípios"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 322.5
   },
   "right": {
     "id": "ced97a2e93c1c048",
@@ -230,11 +231,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd2caf00f8b389cf",
+  "active": "4e978437904719f6",
   "lastOpenFiles": [
+    "Dicionário/01. Artigos/Inferência Bayesiana.md",
+    "Dicionário/01. Artigos/Lógica dos Primeiros Princípios.md",
     "Dicionário/01. Artigos/Reforço Intermitente.md",
     "Erro Fundamental de Atribuição.md",
-    "Dicionário/01. Artigos/Inferência Bayesiana.md",
     "Erro de Atribuição.md",
     "raciocínio por analogia.md",
     "Dicionário/01. Artigos/Navalha de Occam.md",
@@ -249,7 +251,6 @@
     "Dicionário/01. Artigos/Custo de Oportunidade.md",
     "Dicionário/01. Artigos/Assimetria.md",
     "Dicionário/01. Artigos/DARVO.md",
-    "Dicionário/01. Artigos/Lógica dos Primeiros Princípios.md",
     "Lógica dos Primeiros Princípios (1).md",
     "+ DICIONÁRIO (Taxonomia).md",
     "Dicionário/01. Artigos/Fato, Inferência, Hipótese e Juízo.md",
