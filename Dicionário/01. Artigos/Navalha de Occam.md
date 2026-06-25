@@ -13,7 +13,6 @@ data: 2026-06-22T16:43:00
 modelo: Opus 4.8
 resumo: Entre explicações que dão conta igualmente bem dos mesmos fatos, prefira a que postula menos entidades. Não é um critério de verdade, mas uma regra de aposta — a hipótese mais econômica é o melhor ponto de partida, nunca a sentença final sobre o mundo.
 ---
----
 # Navalha de Occam
 
 ## O problema
@@ -88,7 +87,6 @@ A segunda: **em que vocabulário "simples" foi medido?** Como mostrou o enigma d
 
 A terceira: **a navalha está sendo usada como desempate ou como trator?** Sua jurisdição legítima começa e termina nos empates explicativos. Quem a invoca para vencer apesar de ajustar pior os dados não a está aplicando — está sequestrando seu prestígio. A defesa cabe numa frase a ser dita em voz alta: *concordo em preferir o mais simples quando as explicações empatam; mostre-me primeiro que elas empatam*. Na ausência desse empate, a discussão volta para onde sempre deveria estar — a **evidência** —, e é ali, não na elegância, que se decide.
 
----
 ## Leitura recomendada
 
 1. Brian Christian e Tom Griffiths. *Algoritmos para Viver.*

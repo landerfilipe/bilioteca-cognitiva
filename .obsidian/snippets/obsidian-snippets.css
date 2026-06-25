@@ -36,23 +36,32 @@ body {
   background-color: rgba(240, 240, 240, 0.8) !important;
   font-weight: 500 !important;
   padding: 0.1em 0.3em !important;
- color:#111 !important;
+  color:#111 !important;
   border-radius: 0 !important;
   box-decoration-break: clone;
   -webkit-box-decoration-break: clone;
 }
 
+/* Note inline title */
+.inline-title {
+  color: #006767 !important;
+  font-family: "Playfair Display", "serif" !important;
+  font-weight: 600 !important;
+  font-size: 2.4em !important;
+}
+
 .markdown-rendered h1, .markdown-preview-view h1 {
   color: #006767 !important;
-  font-family: "Playfar Display", "serif" !important;
+  font-family: "Playfair Display", "serif" !important;
   font-size: 2em !important;
+  font-weight: 600 !important;
 }
 
 .markdown-rendered h2, .markdown-preview-view h2 {
   color: #464646 !important;
-  font-family: "Playfar Display", "serif" !important;
-  font-size: 1.6em !important;
-  font-weight: 700 !important;
+  font-family: "Instrument Serif", "serif" !important;
+  font-size: 1.8em !important;
+  font-weight: 500 !important;
   border-bottom: none !important;
   padding-bottom: 0.2em !important;
 }
@@ -68,24 +77,33 @@ body {
 
 .markdown-rendered h3, .markdown-preview-view h3 {
   color: #464646 !important;
-  font-family: "Playfar Display", "serif" !important;
+  font-family: "Instrument Serif", "serif" !important;
   font-size: 1.3em !important;
-  font-weight: 600 !important;
+  font-weight: 500 !important;
 }
 
 .markdown-rendered h4, .markdown-preview-view h4 {
   color: #464646 !important;
-  font-family: "Playfar Display", "serif" !important;
+  font-family: "Instrument Serif", "serif" !important;
   font-size: 1.1em !important;
-  font-weight: 600 !important;
+  font-weight: 500 !important;
 }
 
-/* Note inline title */
-.inline-title {
-  color: #006767 !important;
-  text-transform: uppercase !important;
-  font-family: "Playfar Display", "serif" !important;
-  font-size: 2em !important;
+
+/* Blockquote — teal border via Baseline theme variables */
+body {
+  --blockquote-border-color: #006767;
+  --blockquote-border-thickness: 4px;
+}
+
+/* Blockquote — background color and padding */
+
+.markdown-rendered blockquote,
+.markdown-preview-view blockquote {
+  margin: 1em 0.5em !important;
+  padding: 0.5em !important;
+  border-radius: 0 !important;
+  font-size: 1.2em !important;
 }
 
 /* Thin rule — HR */
@@ -99,12 +117,12 @@ body {
 /* LaTeX font size — inline */
 span.math mjx-container,
 .math.math-inline mjx-container {
-  font-size: 0.9em !important;
+  font-size: 1em !important;
 }
 
 /* LaTeX font size — block */
 .math.math-block mjx-container {
-  font-size: 1em !important;
+  font-size: 1.1em !important;
 }
 
 
@@ -112,7 +130,7 @@ span.math mjx-container,
    WRITING MODE (Live Preview / Source)
    ========================================================= */
 
-   .markdown-source-view.mod-cm6 .cm-highlight,
+.markdown-source-view.mod-cm6 .cm-highlight,
 .markdown-source-view.mod-cm6 .cm-formatting-highlight {
   background-color: rgba(240, 240, 240, 0.8) !important;
   font-weight: 500 !important;
@@ -122,3 +140,4 @@ span.math mjx-container,
   box-decoration-break: clone;
   -webkit-box-decoration-break: clone;
 }
+
