@@ -139,7 +139,7 @@
 139. Problema do Custo da Irreversibilidade Decisória
 140. Modelo OODA — Observar, Orientar, Decidir e Agir
 141. Princípio da Escassez
-142. Princípio dos Incentivos
+142. [[Princípio dos Incentivos]]
 143. Problema do Incentivo Desalinhado
 144. Lei da Oferta e Demanda
 145. Conceito de Elasticidade da Demanda
