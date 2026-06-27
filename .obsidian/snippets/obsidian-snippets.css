@@ -39,7 +39,7 @@ body {
 
 .markdown-rendered mark,
 .markdown-preview-view mark {
-  background-color: rgba(230, 230, 230, 0.8) !important;
+  background-color: rgba(225, 225, 225, 0.8) !important;
   font-weight: 500 !important;
   padding: 0.1em 0.3em !important;
   color:#111 !important;
@@ -110,7 +110,7 @@ body {
   padding: 0.5em !important;
   border-radius: 0 !important;
   font-size: 1.2em !important;
-  background: linear-gradient(to right, rgb(244, 244, 244), rgb(250, 250, 250)) !important;
+  background: linear-gradient(to right, rgb(240, 240, 240), rgb(245, 245, 245)) !important;
 }
 
 /* Thin rule — HR */
@@ -140,7 +140,6 @@ span.math mjx-container,
 
 .markdown-source-view.mod-cm6 .cm-highlight,
 .markdown-source-view.mod-cm6 .cm-formatting-highlight {
-  background-color: rgba(230, 230, 230, 0.8) !important;
   font-weight: 500 !important;
   color:#111 !important;
   padding: 0.1em 0.3em !important;
@@ -152,12 +151,12 @@ span.math mjx-container,
 /* Fundo da área do artigo */
 .markdown-preview-view,
 .markdown-source-view.mod-cm6 .cm-scroller {
-  background-color: rgb(250, 250, 250) !important;
+  background-color: rgb(245, 245, 245) !important;
 }
 
 /* Cabeçalho da nota (setas de nav + breadcrumb) — AMARELO */
 .view-header {
-  background-color: rgb(250, 250, 250) !important;
+  background-color: rgb(245, 245, 245) !important;
 }
 
 /* Áreas cinzas restantes — LARANJA */
