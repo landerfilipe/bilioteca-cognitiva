@@ -11,7 +11,7 @@ resumo: "Raciocinar por primeiros princípios é decompor um problema até as ve
 
 ## O problema
 
-A maior parte do raciocínio cotidiano opera por **analogia**: aceita-se uma conclusão porque ela se parece com algo que já existe, porque "é assim que se faz", ou porque outros decidiram igual antes. Esse modo é barato e veloz, e quase sempre basta — mas carrega um defeito estrutural. Quem usa [[raciocínio por analogia]] **herda, sem inspecionar, todas as premissas embutidas no precedente**. Se o precedente estava errado, o erro se reproduz em silêncio, sem que nada o acuse. E quando o problema é genuinamente novo — quando não existe precedente algum —, a analogia não tem de onde copiar e simplesmente emperra.
+A maior parte do raciocínio cotidiano opera por **analogia**: aceita-se uma conclusão porque ela se parece com algo que já existe, porque "é assim que se faz", ou porque outros decidiram igual antes. Esse modo é barato e veloz, e quase sempre basta — mas carrega um defeito estrutural. Quem usa [[Raciocínio por Analogia]] **herda, sem inspecionar, todas as premissas embutidas no precedente**. Se o precedente estava errado, o erro se reproduz em silêncio, sem que nada o acuse. E quando o problema é genuinamente novo — quando não existe precedente algum —, a analogia não tem de onde copiar e simplesmente emperra.
 
 A l*ógica dos primeiros princípios* existe para corrigir esse defeito. Ela recusa a herança: em vez de derivar uma conclusão de outra conclusão parecida, derruba o problema até as verdades que nada devem à convenção e reconstrói tudo a partir delas. ==O preço da analogia é aceitar erros que você nunca examinou; o preço dos primeiros princípios é ter de reconstruir o que a analogia teria entregue de graça.==
 
@@ -43,7 +43,7 @@ A [[Assimetria]] entre os dois movimentos é o ponto crucial do método. A recon
 
 Quatro vizinhos costumam ser confundidos com a lógica dos primeiros princípios, e separá-los esclarece o que o método é.
 
-O primeiro vizinho é o [[raciocínio por analogia]]. A **analogia**[^1] raciocina **de lado** — vai do semelhante ao semelhante, transportando uma conclusão de um caso conhecido para um caso parecido. Os primeiros princípios raciocinam **para cima** — partem de uma base e deduzem. Onde a analogia pergunta "com o que isto se parece?", os primeiros princípios perguntam "do que isto necessariamente decorre?".
+O primeiro vizinho é o [[Raciocínio por Analogia]]. A **analogia**[^1] raciocina **de lado** — vai do semelhante ao semelhante, transportando uma conclusão de um caso conhecido para um caso parecido. Os primeiros princípios raciocinam **para cima** — partem de uma base e deduzem. Onde a analogia pergunta "com o que isto se parece?", os primeiros princípios perguntam "do que isto necessariamente decorre?".
 
 O segundo é o [[reducionismo]]. *Reduzir é explicar um todo por suas partes* — uma tese sobre o que as coisas *são*. Raciocinar por primeiros princípios é uma tese sobre como as crenças *se justificam*, e inclui um passo que o reducionismo não tem: a reconstrução. Decompor sem reerguer é redução; o método completo exige a volta para cima.
 

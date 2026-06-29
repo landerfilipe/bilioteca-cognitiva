@@ -74,8 +74,6 @@ Em seguida vem o **título** em H1, e logo abaixo o corpo do artigo, organizado 
 
 **Os limites** — O ponto em que a intuição ingênua se rompe, os limites de validade do conceito e os erros típicos de quem o usa mal. É a seção onde a régua Kahneman morde mais forte: ressalvas honestas, condições em que o conceito deixa de valer, evidências contestadas. **Fortemente recomendada em quase todo artigo.**
 
-**Origem** — Quem formalizou o conceito e quando, **apenas** quando houver uma formalização nomeada relevante (ex.: **(Spence, 1973)**, **(Zahavi, 1975)**). Reúne em um só lugar o que de outro modo viraria menção narrativa dispersa. Omitir quando não houver origem nomeada que importe.
-
 **Distinções** — Separa o conceito dos vizinhos com que é confundido. Útil sobretudo em temas conceituais (lógica, epistemologia, filosofia), onde a fronteira entre ideias próximas é o que mais ilumina.
 
 ### Guia de seleção por família de disciplina (orientação, não template rígido)
@@ -83,7 +81,7 @@ Em seguida vem o **título** em H1, e logo abaixo o corpo do artigo, organizado 
 - **Quantitativo** (Matemática, Estatística, Economia, Teoria dos Jogos): As peças + A mecânica + Os limites.
 - **Conceitual** (Lógica, Epistemologia, Filosofia): Distinções + A mecânica + Os limites; "As peças" opcional.
 - **Adversarial** (Psicologia de manipulação, Estratégia, Geopolítica): As peças (movimentos) + A mecânica (sequência) + Os limites.
-- **Empírico/natural** (Biologia, Física): As peças + A mecânica + Os limites; Origem quando houver descoberta nomeada.
+- **Empírico/natural** (Biologia, Física): As peças + A mecânica + Os limites.
 
 No **Arquétipo B (distinção/taxonomia)**, o miolo se reinterpreta: **As peças** são os próprios conceitos distinguidos, cada um como um papel; **A mecânica** é o critério que os separa e como eles se relacionam ou transitam entre si; **Distinções** deixa de ser opcional e tende a ser a seção central.
 
