@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Erro Fundamental de Atribuição.md",
+                "file": "Custo Irrecuperável.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Erro Fundamental de Atribuição"
+              "title": "Custo Irrecuperável"
             }
           }
         ],
@@ -231,25 +231,25 @@
     "type": "floating",
     "children": [
       {
-        "id": "edf4d71e8721f205",
+        "id": "098807e4a0ea5e9b",
         "type": "window",
         "children": [
           {
-            "id": "eefc323d683d2331",
+            "id": "accfe1f04202611d",
             "type": "tabs",
             "children": [
               {
-                "id": "991e333d05bdd272",
+                "id": "a36b944b5502fb60",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Erro Fundamental de Atribuição.md",
+                    "file": "Custo Irrecuperável.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Erro Fundamental de Atribuição"
+                  "title": "Custo Irrecuperável"
                 }
               }
             ]
@@ -265,11 +265,15 @@
       }
     ]
   },
-  "active": "991e333d05bdd272",
+  "active": "a36b944b5502fb60",
   "lastOpenFiles": [
-    "dúvida metódica.md",
+    "Custo Irrecuperável (1).md",
     "+Prompt-Mestre - Biblioteca Cognitiva.md",
+    "Custo Irrecuperável.md",
+    "dúvida metódica.md",
     "Erro Fundamental de Atribuição.md",
+    "+Prompt-Mestre - Biblioteca Cognitiva.md.tmp.28324.9d304db4717f",
+    "+Prompt-Mestre - Biblioteca Cognitiva.md.tmp.28324.5a0a4e78cb0a",
     "Dicionário/01. Artigos/Raciocínio por Analogia.md",
     "Erro Fundamental de Atribuição (1).md",
     "Raciocínio por Analogia (1).md",
@@ -286,13 +290,11 @@
     "Dicionário/01. Artigos/Incerteza Residual.md",
     "Dicionário/01. Artigos/Hipótese da Rainha Vermelha.md",
     "Dicionário/01. Artigos/Falsa Equivalência.md",
-    "Custo Irrecuperável.md",
     "Dicionário/01. Artigos/Descrição, Explicação e Recomendação.md",
     "Dicionário/01. Artigos/Custo de Oportunidade.md",
     "Dicionário/01. Artigos/Assimetria.md",
     "Dicionário/01. Artigos/DARVO.md",
     "Lógica dos Primeiros Princípios (1).md",
-    "Dicionário/01. Artigos/Fato, Inferência, Hipótese e Juízo.md",
     "+Prompt-Mestre - Biblioteca Cognitiva.md.tmp.22436.77f8767a49bf",
     "+Prompt-Mestre - Biblioteca Cognitiva.md.tmp.22436.5104a892599d",
     "+Prompt-Mestre - Biblioteca Cognitiva.md.tmp.23716.c2590ec5851f",
@@ -305,9 +307,7 @@
     "Dicionário/00. Arquivos/03. Apresentações (PPTX & PDF)/Pensamento Adversarial.pdf",
     "Dicionário/02. Infográficos/Atualização Bayesiana de Crenças.png",
     "Dicionário/00. Arquivos/02. Infográficos/Pensamento Adversarial.png",
-    "Dicionário/00. Arquivos/03. Apresentações (PPTX & PDF)/DARVO.pdf",
     "Dicionário/00. Arquivos/02. Infográficos/DARVO.png",
-    "Dicionário/00. Arquivos/03. Apresentações (PPTX & PDF)/Reforço Intermitente.pdf",
     "Dicionário/00. Arquivos/02. Infográficos/Reforço Intermitente.png",
     "Dicionário/00. Arquivos/02. Infográficos/Incerteza Residual.png",
     "Dicionário/02. Infográficos/Princípio da Incerteza.png",
