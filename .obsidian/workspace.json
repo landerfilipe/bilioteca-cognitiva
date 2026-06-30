@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "+Prompt-Mestre - Biblioteca Cognitiva.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -49,8 +49,7 @@
               "title": "Ceticismo Pirrônico"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -244,10 +243,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "66a92d83521e4d9c",
+  "active": "f22598aa6d749106",
   "lastOpenFiles": [
-    "+ DICIONÁRIO (Taxonomia).md",
     "Ceticismo Pirrônico.md",
+    "+ DICIONÁRIO (Taxonomia).md",
     "subdeterminação.md",
     "Erro Fundamental de Atribuição.md",
     "Dúvida Metódica.md",
