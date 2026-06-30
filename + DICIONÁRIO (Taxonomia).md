@@ -3,7 +3,7 @@
 3. [[Lógica dos Primeiros Princípios]]
 4. [[Incerteza Residual]]
 5. Princípio da Humildade Epistêmica
-6. Ceticismo Pirrônico
+6. [[Ceticismo Pirrônico]]
 7. Princípio da Taxa-base
 8. [[Inferência Bayesiana]]
 9. Princípio do Valor Diagnóstico da Evidência

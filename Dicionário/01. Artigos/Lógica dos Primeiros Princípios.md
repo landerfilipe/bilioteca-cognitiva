@@ -55,7 +55,7 @@ O quarto é o [[axioma]]. No [[método axiomático]] de um sistema formal, o axi
 
 A noção é de **(Aristóteles, ca. 350 a.C.)**, nos *Segundos Analíticos*, sob o nome de *archē* — princípio. Aristóteles define o primeiro princípio como aquilo que é verdadeiro, primário, imediato, mais conhecido que a conclusão e anterior a ela, e que **não se demonstra**: justamente por ser primeiro, não há de onde derivá-lo. A geometria de **(Euclides, ca. 300 a.C.)** tornou-se o exemplar histórico da aplicação: nos *Elementos*, todo o edifício da geometria desce de um punhado de postulados e noções comuns, e nada além disso é admitido sem prova.
 
-A versão moderna e mais radical é de **(Descartes, 1641)**. Pela [[dúvida metódica]], Descartes suspende toda crença que possa ser posta em dúvida, à procura de uma única proposição indubitável sobre a qual reconstruir o conhecimento inteiro — o [[cogito]]. É a forma pura do programa: demolir até o alicerce indubitável e reerguer só a partir dele. Esse programa tem nome na epistemologia — **[[fundacionismo]]** —, a tese de que o *conhecimento justificado tem estrutura de pirâmide, repousando sobre crenças básicas que se sustentam sozinhas.*
+A versão moderna e mais radical é de **(Descartes, 1641)**. Pela [[Dúvida Metódica]], Descartes suspende toda crença que possa ser posta em dúvida, à procura de uma única proposição indubitável sobre a qual reconstruir o conhecimento inteiro — o [[cogito]]. É a forma pura do programa: demolir até o alicerce indubitável e reerguer só a partir dele. Esse programa tem nome na epistemologia — **[[fundacionismo]]** —, a tese de que o *conhecimento justificado tem estrutura de pirâmide, repousando sobre crenças básicas que se sustentam sozinhas.*
 
 ## Os limites
 
