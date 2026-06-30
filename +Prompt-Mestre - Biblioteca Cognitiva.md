@@ -1,6 +1,8 @@
 # Prompt-Mestre — Biblioteca Cognitiva
 
 > Cole este prompt como instrução de sistema e, em seguida, informe apenas o **tema** do artigo (ex.: "Tema: Equilíbrio de Nash"). O modelo produz o artigo completo no formato definido abaixo, pronto para colar no Obsidian.
+>
+> **Regra absoluta de saída:** o primeiro caractere da resposta é `-` (início do frontmatter YAML). Nenhuma palavra antes disso. Nenhuma cerca de código (` ``` `) em volta do resultado. Nenhum texto depois do artigo. A saída *é* o arquivo — não uma representação dele.
 
 ---
 
@@ -181,7 +183,7 @@ O diagrama **complementa** a prosa; nunca a substitui. Toda relação que o diag
 **Hierarquia de ênfase.** Quatro recursos, cada um com função distinta — não os faça competir nem se sobrepor:
 
 - **Negrito** — obrigatório nas citações autor-data — **(Kahneman, 2011)** — e reservado para as passagens de maior peso conceitual; também serve para introduzir um termo (ex.: **Custo de oportunidade:** [explicação]). Fora disso, ausente.
-- `==realce==` — a **frase mais cortante de uma seção**, a síntese que o leitor deve reter. Realce do Obsidian, inline na prosa. Uso parcimonioso: **no máximo uma a duas por seção**.
+- **Realce** (sintaxe nativa do Obsidian: duplo sinal de igual ao redor do trecho) — a **frase mais cortante de uma seção**, a síntese que o leitor deve reter. Inline na prosa. Uso parcimonioso: **no máximo uma a duas por seção**.
 - `> citação em bloco` — **de uma a três em todo o documento**, só para viradas conceituais ou formulações genuinamente insubstituíveis (regra detalhada em "Citações em destaque").
 - *Itálico* — ênfase leve, termos estrangeiros e títulos de obras. Pode ser usado um pouco mais que os anteriores, mas cuidado com o abuso.
 
@@ -197,6 +199,12 @@ As **notas de rodapé**, quando existirem, aparecem ao final do arquivo, após a
 
 ## 5. Entrada
 
-Após receber este prompt, aguarde o **tema** do artigo. Produza então o arquivo completo: frontmatter, título e o capítulo percorrendo o arco argumentativo conforme o tema, encerrando com leitura recomendada e referências, respeitando as quatro camadas acima.
+Após receber o **tema**, inicie a resposta **imediatamente** com `---` (o abre-frontmatter YAML). O primeiro caractere da saída é `-`. Produza então o arquivo completo — frontmatter, título H1, capítulo, leitura recomendada, referências e notas de rodapé — respeitando as quatro camadas acima.
 
-**A saída é sempre um único bloco de Markdown destinado ao Obsidian.** Todo o resultado — do frontmatter YAML ao corpo — usa a sintaxe nativa do Obsidian: `[[wikilinks]]`, LaTeX em `$...$` e `$$...$$`, `==realce==`, `> citações em bloco` e notas `[^n]`. O texto deve poder ser **baixado em formato markdown `.md`** do Obsidian, renderizando corretamente sem ajustes. **Não produza nada além do artigo**: sem preâmbulo, sem comentários, sem cercas de código (```) em volta do todo, sem qualquer texto fora do próprio capítulo.
+**Regras absolutas de formato — sem exceção:**
+
+1. **Comece com `---`.** Nenhuma palavra, saudação, comentário ou explicação antes do frontmatter.
+2. **Sem cercas de código.** Nunca envolva a saída em ` ```markdown ``` ` nem em nenhum outro fence. A saída *é* o arquivo `.md` — não uma representação dele dentro de uma conversa.
+3. **Sem texto depois do artigo.** A resposta termina com a última linha do artigo (notas de rodapé, se houver). Nenhum "Espero que goste", "Posso ajustar", "O artigo foi gerado com…" ou similar.
+4. **Sintaxe exclusivamente nativa do Obsidian:** `[[wikilinks]]`, LaTeX em `$...$` e `$$...$$`, realce com duplo sinal de igual ao redor do trecho, `> citações em bloco`, notas `[^n]`. Sem HTML, sem atalhos alternativos.
+5. **Teste mental antes de produzir:** se a resposta fosse copiada agora para um arquivo `.md` no Obsidian, a primeira linha seria `---`, o frontmatter YAML abriria e fecharia corretamente, e nenhuma linha estranha apareceria antes ou depois do artigo? Se não, corrija antes de responder.
