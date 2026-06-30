@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "+Prompt-Mestre - Biblioteca Cognitiva.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -229,8 +229,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5,
-    "collapsed": true
+    "width": 317.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -247,12 +246,12 @@
   },
   "active": "66a92d83521e4d9c",
   "lastOpenFiles": [
+    "Custo Irrecuperável.md",
+    "Ceticismo Pirrônico.md",
+    "+Prompt-Mestre - Biblioteca Cognitiva.md",
     "+Prompt-Mestre - Biblioteca Cognitiva.md.tmp.25416.f4f8c9e3c698",
     "+Prompt-Mestre - Biblioteca Cognitiva.md.tmp.25416.64547a910fee",
-    "Ceticismo Pirrônico.md",
-    "Custo Irrecuperável.md",
     "Dúvida Metódica.md",
-    "+Prompt-Mestre - Biblioteca Cognitiva.md",
     "+ DICIONÁRIO (Taxonomia).md",
     "subdeterminação.md",
     "Erro Fundamental de Atribuição.md",
@@ -283,7 +282,6 @@
     "Navalha de Occam.pdf",
     "Dicionário/00. Arquivos/02. Infográficos/Inferência Bayesiana.png",
     "Dicionário/00. Arquivos/03. Apresentações (PPTX & PDF)/Inferência Bayesiana.pdf",
-    "Dicionário/00. Arquivos/03. Apresentações (PPTX & PDF)/Navalha de Occam.pdf",
     "Dicionário/00. Arquivos/02. Infográficos/Navalha de Occam.png",
     "Dicionário/02. Infográficos/Atualização Bayesiana de Crenças.png",
     "Dicionário/00. Arquivos/02. Infográficos/Pensamento Adversarial.png",
