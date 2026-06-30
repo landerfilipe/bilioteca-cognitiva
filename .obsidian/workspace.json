@@ -31,8 +31,7 @@
               "title": "Custo Irrecuperável"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -260,16 +259,16 @@
         "y": 8,
         "width": 1024,
         "height": 800,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
   "active": "a36b944b5502fb60",
   "lastOpenFiles": [
+    "Custo Irrecuperável.md",
     "Custo Irrecuperável (1).md",
     "+Prompt-Mestre - Biblioteca Cognitiva.md",
-    "Custo Irrecuperável.md",
     "dúvida metódica.md",
     "Erro Fundamental de Atribuição.md",
     "+Prompt-Mestre - Biblioteca Cognitiva.md.tmp.28324.9d304db4717f",
