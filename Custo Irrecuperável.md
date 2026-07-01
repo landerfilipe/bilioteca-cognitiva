@@ -1,10 +1,19 @@
 ---
 titulo: "[[Custo Irrecuperável]]"
 categoria: Economia
-tags: [custo-irrecuperável, falácia-do-custo-irrecuperável, custo-de-oportunidade, aversão-à-perda, escalada-de-compromisso, teoria-do-prospecto, economia-comportamental, viés, tomada-de-decisão]
+tags:
+  - custo-irrecuperável
+  - falácia-do-custo-irrecuperável
+  - custo-de-oportunidade
+  - aversão-à-perda
+  - escalada-de-compromisso
+  - teoria-do-prospecto
+  - economia-comportamental
+  - viés
+  - tomada-de-decisão
 data: 2026-06-29
 modelo: Opus 4.8
-resumo: "Um custo irrecuperável é todo recurso já gasto que nenhuma escolha futura recupera. A decisão racional o ignora por completo e olha apenas para o que ainda está por vir; a mente, porém, insiste em honrá-lo, e dessa insistência nasce a teimosia em projetos que já fracassaram."
+resumo: Um custo irrecuperável é todo recurso já gasto que nenhuma escolha futura recupera. A decisão racional o ignora por completo e olha apenas para o que ainda está por vir; a mente, porém, insiste em honrá-lo, e dessa insistência nasce a teimosia em projetos que já fracassaram.
 ---
 
 # Custo irrecuperável
